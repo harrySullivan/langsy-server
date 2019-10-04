@@ -23,12 +23,10 @@
   "bugs": {
     "url": "https://github.com/harrySullivan/musicsy-v3/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "parcel-bundler": "^1.12.3",
     "rimraf": "^3.0.0",
-    "typescript": "^3.6.2"
-  },
-  "dependencies": {
+    "typescript": "^3.6.2",
     "@types/node": "^12.7.4",
     "cheerio": "^1.0.0-rc.3",
     "preact": "^8.5.2",
