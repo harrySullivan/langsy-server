@@ -1,1 +1,2 @@
-web: npm run build-client && bin/App
+release: npm run build-client
+web: bin/App
