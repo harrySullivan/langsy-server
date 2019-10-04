@@ -10,7 +10,7 @@
     "dev-server": "nodemon --exec go run App ./App.go --ignore client/",
     "bust-cache": "node utils/cache.js",
     "dev-client": "npx parcel client/index.html",
-    "build-client": "rimraf dist && npx parcel build client/index.html --public-url /static/ && npm run bust-cache",
+    "build-client": "npx rimraf dist && npx parcel build client/index.html --public-url /static/ && npm run bust-cache",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
+    "rimraf": "^3.0.0",
     "typescript": "^3.6.2"
   },
   "dependencies": {
