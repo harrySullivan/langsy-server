@@ -3,7 +3,7 @@ package middlewares
 import (
     "App/database/models"
     "App/utils"
-    "fmt"
+    "io/ioutil"
     "github.com/AboutGoods/go-utils/log"
     "github.com/gin-gonic/gin"
 )
@@ -28,9 +28,13 @@ func LoadUser(c *gin.Context) {
     c.Next()
 }
 
-func Etag(etag string) func (c *gin.Context) {
+func Etag() func (c *gin.Context) {
+    etag, err := ioutil.ReadFile(".etag")
+    if err != nil {
+        log.Fatal(err)
+    }
+
     return func(c *gin.Context) {
-        fmt.Println(etag)
-        c.Header("ETag", etag)
+        c.Header("ETag", string(etag))
     }
 }

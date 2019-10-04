@@ -3,18 +3,11 @@ package router
 import (
 	"App/http/controllers"
 	"App/http/middlewares"
-	"io/ioutil"
-	"log"
 	"github.com/gin-gonic/gin"
-
 )
 
 func DeclareRoutes(engine *gin.Engine) {
-	etag, err := ioutil.ReadFile(".etag")
-	if err != nil {
-		log.Fatal(err)
-	}
-	engine.Use(middlewares.Etag(string(etag)))
+	engine.Use(middlewares.Etag())
 
 	engine.Use(middlewares.Log)
 	engine.GET("/ping", controllers.MainController{}.Ping)
