@@ -1,12 +1,12 @@
 import { h } from 'preact'
 import Router from 'preact-router'
 
-import { App } from "./App";
-import { About } from "./About";
+import { Explore } from "./pages/Explore";
+import { About } from "./pages/About";
 
 export default () => (
   <Router>
-    <App path="/" />
+    <Explore path="/" />
     <About path="/about" />
   </Router>
 )
