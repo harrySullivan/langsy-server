@@ -6,9 +6,7 @@ import "bulma/css/bulma.min.css"
 import "@fortawesome/fontawesome-free/css/all.min.css"
 import "spacing/main"
 
-import createStore from 'unistore'
-
-const store = createStore({ count: 55 })
+import store from "./store"
 
 const app = document.getElementById('root')
 

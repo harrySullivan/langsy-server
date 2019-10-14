@@ -10,3 +10,8 @@ export let actions = () => ({
     return { count: state.count - 1 }
   }
 })
+
+export const initialCounterState: State = {
+	count: 0
+}
+
