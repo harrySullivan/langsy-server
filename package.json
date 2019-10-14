@@ -36,5 +36,8 @@
     "typescript": "^3.6.2",
     "unistore": "^3.4.1"
   },
+  "alias": {
+    "$root": "./client"
+  },
   "homepage": "https://github.com/harrySullivan/musicsy-v3#readme"
 }

@@ -1,6 +1,6 @@
 import { h, render } from 'preact'
 import { Provider } from 'unistore/preact'
-import Router from './router'
+import Router from '$root/router'
 
 import "bulma/css/bulma.min.css"
 import "@fortawesome/fontawesome-free/css/all.min.css"

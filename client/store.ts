@@ -1,6 +1,6 @@
 import createStore from 'unistore'
 
-import { initialCounterState } from './state/counter';
+import { initialCounterState } from '$root/state/counter';
 
 const initialState = Object.assign(
 	{},
