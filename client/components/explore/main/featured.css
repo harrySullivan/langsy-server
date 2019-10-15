@@ -1,0 +1,9 @@
+.featured-thumbnail {
+	width: 14rem;
+	height: auto;
+	border-radius: 0.7rem;
+}
+
+.results-wrapper {
+	overflow-x: auto;
+}
