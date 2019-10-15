@@ -18,9 +18,9 @@ export const Featured = (
 	    {SectionHeading("featured", "albums")}
 	    <div class="columns pl2 results-wrapper">
 	    	{Item("Blue Moon", "Hayke", "https://www.theaudiodb.com/images/media/artist/thumb/uxrqxy1347913147.jpg")}
+	    	{Item("Blue Moon", "Hayke", "https://www.theaudiodb.com/images/media/artist/thumb/wtxxru1527589862.jpg")}
 	    	{Item("Blue Moon", "Hayke", "https://www.theaudiodb.com/images/media/artist/thumb/uxrqxy1347913147.jpg")}
-	    	{Item("Blue Moon", "Hayke", "https://www.theaudiodb.com/images/media/artist/thumb/uxrqxy1347913147.jpg")}
-	    	{Item("Blue Moon", "Hayke", "https://www.theaudiodb.com/images/media/artist/thumb/uxrqxy1347913147.jpg")}
+	    	{Item("Blue Moon", "Hayke", "https://www.theaudiodb.com/images/media/artist/thumb/wtxxru1527589862.jpg")}
 	    </div>
     </div>
   )
