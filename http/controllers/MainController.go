@@ -12,13 +12,8 @@ type MainController struct {
 // Homepage is just a page to make fun of fools
 func (MainController) Homepage(c *gin.Context) {
 	c.JSON(200, gin.H{
-		"message": "Welcome to talksy roshan",
+		"message": "Musicsy Server. Leave or DIE.",
 	})
-}
-
-// Client hydrates and serves the client file
-func (MainController) Client(c *gin.Context) {
-	c.File("./dist/index.html")
 }
 
 // Ping is used for uptime

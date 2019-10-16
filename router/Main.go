@@ -7,9 +7,9 @@ import (
 )
 
 func DeclareRoutes(engine *gin.Engine) {
-	engine.Use(middlewares.Etag())
 
 	engine.Use(middlewares.Log)
+	engine.GET("/", controllers.MainController{}.Homepage)
 	engine.GET("/ping", controllers.MainController{}.Ping)
 
 	api := engine.Group("/api")
@@ -29,6 +29,4 @@ func DeclareRoutes(engine *gin.Engine) {
 			users.DELETE("/:userId", userController.Delete)
 		}
 	}
-	engine.NoRoute(controllers.MainController{}.Client)
-	engine.Static("/static", "./dist")
 }

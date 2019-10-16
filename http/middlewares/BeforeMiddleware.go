@@ -3,7 +3,6 @@ package middlewares
 import (
     "App/database/models"
     "App/utils"
-    "io/ioutil"
     "github.com/AboutGoods/go-utils/log"
     "github.com/gin-gonic/gin"
 )
@@ -26,15 +25,4 @@ func LoadUser(c *gin.Context) {
         c.Set("user", user)
     }
     c.Next()
-}
-
-func Etag() func (c *gin.Context) {
-    etag, err := ioutil.ReadFile(".etag")
-    if err != nil {
-        log.Fatal(err)
-    }
-
-    return func(c *gin.Context) {
-        c.Header("ETag", string(etag))
-    }
 }
