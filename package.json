@@ -1,0 +1,23 @@
+{
+  "name": "musicsy server",
+  "version": "1.0.0",
+  "description": "It's like spotify premium with all the premium features",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev-server": "nodemon --exec go run App ./App.go --ignore client/",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrySullivan/musicsy-v3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrySullivan/musicsy-v3/issues"
+  },
+  "homepage": "https://github.com/harrySullivan/musicsy-v3#readme"
+}
