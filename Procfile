@@ -1,1 +1,1 @@
-web: npm run build-client && bin/App
+web: bin/App
