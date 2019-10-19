@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "dev-server": "nodemon --exec go run App ./App.go --ignore client/",
+    "dev": "nodemon --exec go run App ./App.go --ignore client/",
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 # Musicsy V3
 
-It's like spotify premium **with** all the premium features.
+It's like the server for Spotify Premium but with all the premium features and not necessarily legal
 
 lib used:
 
