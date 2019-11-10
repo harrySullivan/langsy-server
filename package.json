@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harrySullivan/musicsy-v3.git"
+    "url": "git+https://github.com/harrySullivan/langsy-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harrySullivan/musicsy-v3/issues"
+    "url": "https://github.com/harrySullivan/langsy-server/issues"
   },
-  "homepage": "https://github.com/harrySullivan/musicsy-v3#readme"
+  "homepage": "https://github.com/harrySullivan/langsy-server#readme"
 }

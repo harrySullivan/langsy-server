@@ -1,10 +1,9 @@
-# Musicsy V3
+# Langsy Server
 
-It's like the server for Spotify Premium but with all the premium features and not necessarily legal
+Language learning server built upon failure
 
 lib used:
 
-- viper (config lib)
 - logrus (logger lib)
 - mongo db official driver
 - gin-gonic (router and web)
