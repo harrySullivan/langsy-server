@@ -15,8 +15,7 @@ type Course struct {
 }
 
 type CoursePatch struct {
-	NextMotivator  *int  `json:"nextmotivator,omitempty"`
-	Score          *int  `json:"newscore,omitempty"`
-	NewLog         *Log  `json:"newlog,omitempty"`
+	NextMotivator  int  `structs:"nextmotivator,omitempty"`
+	Score          int  `structs:"score,omitempty"`
 }
 

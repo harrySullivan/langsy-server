@@ -19,7 +19,7 @@ Content-Type: application/json
 
 ###
 
-PATCH {{host}}/courses/5dc87a942a7dfb11d2f8e310
+PATCH {{host}}/courses/5dc86528bff2c10fd3d927ba
 Content-Type: application/json
 
 {
@@ -28,7 +28,7 @@ Content-Type: application/json
 
 ###
 
-PATCH {{host}}/courses/5dc86180f95104b19a235762
+PATCH {{host}}/courses/5dc8625d319e97f5ebba6f59
 Content-Type: application/json
 
 {

@@ -48,9 +48,9 @@ func (CourseService) Insert(course *models.Course) (*models.Course, error) {
 	return course, err
 }
 
-func (CourseService) Update(courseId *primitive.ObjectID, coursePatch *models.CoursePatch) (error) {
+func (CourseService) Update(courseId *primitive.ObjectID, coursePatch *map[string]interface {}) (error) {
 	_, err := CourseService{}.Collection().UpdateOne(database.Context, bson.M{"_id": *courseId},
-		coursePatch)
+		bson.M{"$set": *coursePatch})
 
 	log.PanicOnError(err, "cannot update course to database")
 

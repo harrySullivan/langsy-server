@@ -4,8 +4,10 @@ import (
 	"App/database/models"
 	"App/http/services"
 	"App/utils"
+	"fmt"
 
 	"github.com/gin-gonic/gin"
+	"github.com/fatih/structs"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
@@ -48,10 +50,12 @@ func (CourseController) Patch(c *gin.Context) {
 	utils.HttpError(c, 400, err)
 
 	var coursePatch models.CoursePatch
-	err = c.ShouldBind(&coursePatch)
+	err = c.Bind(&coursePatch)
 	utils.HttpError(c, 400, err)
 
-	err = services.CourseService{}.Update(&courseOid, &coursePatch)
+	coursePatchTruncated := structs.Map(coursePatch)
+
+	err = services.CourseService{}.Update(&courseOid, &coursePatchTruncated)
 	utils.HttpError(c, 500, err)
 	c.JSON(200, err)
 }

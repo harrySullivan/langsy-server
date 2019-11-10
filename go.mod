@@ -5,6 +5,7 @@ go 1.12
 require (
 	github.com/AboutGoods/go-utils v0.0.0-20190812090905-37a36651f3df
 	github.com/creack/pty v1.1.9 // indirect
+	github.com/fatih/structs v1.1.0
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-gonic/gin v1.4.0
 	github.com/go-stack/stack v1.8.0 // indirect
