@@ -4,7 +4,6 @@ import (
 	"App/database/models"
 	"App/http/services"
 	"App/utils"
-	"fmt"
 
 	"github.com/gin-gonic/gin"
 	"github.com/fatih/structs"
