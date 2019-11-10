@@ -30,7 +30,6 @@ func (User *User) ApplyPatch(patch UserPatch) {
 }
 
 func (user *User) Load(id string) error {
-
 	userDB, err := UserRepository{}.FindById(id)
 	*user = userDB
 	return err

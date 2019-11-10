@@ -1,0 +1,17 @@
+@host = http://localhost:8000
+###
+
+GET {{host}}/courses
+
+###
+
+
+# @name CreateCourse
+POST {{host}}/courses
+Content-Type: application/json
+
+{
+  "Language": "ru",
+  "NextMotivator": 2,
+  "Logs": []
+}
