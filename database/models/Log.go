@@ -6,6 +6,6 @@ import (
 
 type Log struct {
 	PhraseID   *primitive.ObjectID  `bson:"_id,omitempty"`
-	Timestamp  int                  `json:"Timestamp",bson:"Timestamp"`
-	Attempts  int                   `json:"Attempts",bson:"Attempts"`
+	Timestamp  int                  `json:"timestamp",bson:"timestamp"`
+	Attempts  int                   `json:"attempts",bson:"attempts"`
 }

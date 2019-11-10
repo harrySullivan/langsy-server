@@ -2,54 +2,67 @@ package controllers
 
 import (
 	"App/database/models"
+	"App/http/services"
 	"App/utils"
 
 	"github.com/gin-gonic/gin"
+	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
 type CourseController struct {
 	Controller
 }
 
-func (controller CourseController) List(c *gin.Context) {
-	courses := models.CourseRepository{}.FindAll()
+func (CourseController) List(c *gin.Context) {
+	courses, err := services.CourseService{}.FindAll()
+	utils.HttpError(c, 500, err)
+
 	c.JSON(200, courses)
 }
 
-func (controller CourseController) Post(c *gin.Context) {
-	var course models.Course
-	err := c.Bind(&course)
+func (CourseController) Get(c *gin.Context) {
+	courseId := c.Param("courseId")
+	courseOid, err := primitive.ObjectIDFromHex(courseId)
 	utils.HttpError(c, 400, err)
-	course.Store()
+
+	course, err := services.CourseService{}.FindById(&courseOid)
 	utils.HttpError(c, 500, err)
+
 	c.JSON(200, course)
 }
 
-func (controller CourseController) Patch(c *gin.Context) {
-	if value, ok := c.Get("course"); ok {
-		course := value.(models.Course)
-		var coursePatch models.CoursePatch
-		err := c.Bind(&coursePatch)
-		utils.HttpError(c, 400, err)
-		course.ApplyPatch(coursePatch)
-		course.Store()
-		c.JSON(202, course)
-	}
+func (CourseController) Post(c *gin.Context) {
+	var course models.Course
+	err := c.Bind(&course)
+	utils.HttpError(c, 400, err)
 
+	iCourse, iErr := services.CourseService{}.Insert(&course)
+	utils.HttpError(c, 500, iErr)
+
+	c.JSON(200, iCourse)
 }
 
-func (controller CourseController) Get(c *gin.Context) {
-	if value, ok := c.Get("course"); ok {
-		course := value.(models.Course)
-		c.JSON(200, course)
-	}
+func (CourseController) Patch(c *gin.Context) {
+	courseId := c.Param("courseId")
+	courseOid, err := primitive.ObjectIDFromHex(courseId)
+	utils.HttpError(c, 400, err)
+
+	var coursePatch models.CoursePatch
+	err = c.ShouldBind(&coursePatch)
+	utils.HttpError(c, 400, err)
+
+	err = services.CourseService{}.Update(&courseOid, &coursePatch)
+	utils.HttpError(c, 500, err)
+	c.JSON(200, err)
 }
 
-func (controller CourseController) Delete(c *gin.Context) {
-	if value, ok := c.Get("course"); ok {
-		course := value.(models.Course)
-		err := course.Drop()
-		utils.HttpError(c, 500, err)
-		c.JSON(204, course)
-	}
+func (CourseController) Delete(c *gin.Context) {
+	courseId := c.Param("courseId")
+	courseOid, err := primitive.ObjectIDFromHex(courseId)
+	utils.HttpError(c, 400, err)
+
+	err = services.CourseService{}.Delete(&courseOid)
+	utils.HttpError(c, 500, err)
+
+	c.JSON(200, err)
 }

@@ -13,5 +13,28 @@ Content-Type: application/json
 {
   "Language": "ru",
   "NextMotivator": 2,
+  "Score": 0,
   "Logs": []
+}
+
+###
+
+PATCH {{host}}/courses/5dc87a942a7dfb11d2f8e310
+Content-Type: application/json
+
+{
+  "NextMotivator": 5
+}
+
+###
+
+PATCH {{host}}/courses/5dc86180f95104b19a235762
+Content-Type: application/json
+
+{
+  "newlog": {
+  	"phraseid": "5dc87a942a7dfb11d2f8e310",
+  	"timestamp": 3,
+  	"attempts": 1
+  }
 }
