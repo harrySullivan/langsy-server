@@ -6,23 +6,15 @@ import (
     "App/init/Logger"
     "App/router"
     "github.com/AboutGoods/go-utils/log"
-    "flag"
+    "os"
     "github.com/gin-gonic/gin"
     "github.com/sirupsen/logrus"
-    "strconv"
-
-    "github.com/spf13/viper"
 )
 
 func init() {
-    var forceConfig = flag.Bool("reconfigure", false,"override config file ")
-    flag.Parse()
-
-    Config.Load(*forceConfig)
+    Config.Load()
     Logger.Load()
-    database.NewConnection(viper.GetString(Config.DATABASE_URL))
-
-
+    database.NewConnection(os.Getenv("DATABASE_URL"))
 }
 
 func main() {
@@ -35,14 +27,14 @@ func main() {
 
     router.DeclareRoutes(engine)
 
-    address := viper.GetString(Config.ADDRESS)
-    port := viper.GetInt(Config.PORT)
+    address := os.Getenv("ADDRESS")
+    port := os.Getenv("PORT")
 
     logrus.WithFields(logrus.Fields{
         "address": address,
         "port": port,
     }).Info("server starting")
 
-    err := engine.Run(address +":"+ strconv.Itoa(port))
+    err := engine.Run(address +":"+ port)
     log.PanicOnError(err)
 }

@@ -12,7 +12,7 @@ type MainController struct {
 // Homepage is just a page to make fun of fools
 func (MainController) Homepage(c *gin.Context) {
 	c.JSON(200, gin.H{
-		"message": "Musicsy Server. Leave or DIE.",
+		"message": "Langsy Server. Leave or DIE.",
 	})
 }
 

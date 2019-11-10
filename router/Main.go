@@ -12,21 +12,16 @@ func DeclareRoutes(engine *gin.Engine) {
 	engine.GET("/", controllers.MainController{}.Homepage)
 	engine.GET("/ping", controllers.MainController{}.Ping)
 
-	api := engine.Group("/api")
+	users := engine.Group("/users")
+	users.
+		Use(middlewares.LoadUser).
+		Use(middlewares.LogLatency)
 	{
-		api.GET("/", controllers.MainController{}.Homepage)
-
-		users := api.Group("/users")
-		users.
-			Use(middlewares.LoadUser).
-			Use(middlewares.LogLatency)
-		{
-			userController := controllers.UserController{}
-			users.GET("", userController.List)
-			users.POST("", userController.Post)
-			users.PATCH("/:userId", userController.Patch)
-			users.GET("/:userId", userController.Get)
-			users.DELETE("/:userId", userController.Delete)
-		}
+		userController := controllers.UserController{}
+		users.GET("", userController.List)
+		users.POST("", userController.Post)
+		users.PATCH("/:userId", userController.Patch)
+		users.GET("/:userId", userController.Get)
+		users.DELETE("/:userId", userController.Delete)
 	}
 }

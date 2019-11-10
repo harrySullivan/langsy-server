@@ -1,5 +1,5 @@
 {
-  "name": "musicsy server",
+  "name": "langsy-server",
   "version": "1.0.0",
   "description": "It's like spotify premium with all the premium features",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "dev": "nodemon --exec go run App ./App.go --ignore client/",
+    "dev": "nodemon --exec go run App ./App.go"
   },
   "repository": {
     "type": "git",
