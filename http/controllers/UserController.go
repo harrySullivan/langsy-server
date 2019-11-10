@@ -7,18 +7,15 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// UserController is a controller for all user operations
 type UserController struct {
 	Controller
 }
 
-// List retuns a list of all users
 func (controller UserController) List(c *gin.Context) {
 	users := models.UserRepository{}.FindAll()
 	c.JSON(200, users)
 }
 
-// Post adds a user
 func (controller UserController) Post(c *gin.Context) {
 	var user models.User
 	err := c.Bind(&user)
@@ -28,7 +25,6 @@ func (controller UserController) Post(c *gin.Context) {
 	c.JSON(200, user)
 }
 
-// Patch updates a user
 func (controller UserController) Patch(c *gin.Context) {
 	if value, ok := c.Get("user"); ok {
 		user := value.(models.User)
@@ -42,7 +38,6 @@ func (controller UserController) Patch(c *gin.Context) {
 
 }
 
-// Get returns a user from id
 func (controller UserController) Get(c *gin.Context) {
 	if value, ok := c.Get("user"); ok {
 		user := value.(models.User)
@@ -50,7 +45,6 @@ func (controller UserController) Get(c *gin.Context) {
 	}
 }
 
-// Delete deletes a user
 func (controller UserController) Delete(c *gin.Context) {
 	if value, ok := c.Get("user"); ok {
 		user := value.(models.User)
