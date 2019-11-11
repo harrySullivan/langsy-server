@@ -52,7 +52,7 @@ I'm very fond to you as a friend.
 I'm thirsty.
 I'm busy just now.
 I'm afraid. I'm sure. I'm sorry.
-I'm glad you like it. (I'm glad to hear your good news.)
+I'm glad you like it. 
 I'm ready for breakfast.
 I'm good at tennis.
 What time is it?
@@ -67,15 +67,15 @@ It's in the sky. (near my home/on the sea/on the left of TV /
 The car is near the tree.
 Your hat looks very nice.
 I have a pencil and two books. ( a pair of shoe/a pair of
-I have not (=haven't) a red pencil.
-Do you have any pencils? ((England) Have you any pencils?)
-What do you have? ((England) What have you?)
+I have not  a red pencil.
+Do you have any pencils? 
+What do you have? 
 How many sisters do you have?
 Do you have anything to eat?
 He has some letters for your father?
 My sister has a cup.
 I have a lot of thing to eat.
-I have toothache. (stomach- ache/a cold/a cough/a fever/a
+I have toothache.
 I have no time to see you.
 We have a car waiting outside.
 I'll have some soup.
@@ -175,7 +175,7 @@ What are you doing?
 Where are you going to?
 Could you tell me what time it is?
 How long did it take?
-What do you see with (hear, smell, eat)?
+What do you see with ?
 Do you mind if I smoke?
 I don't think he will win his game.
 I pick you up in front of the hotel.
@@ -205,7 +205,7 @@ You ask some body to tell you time
 I prefer to go school.
 She starts working at
 Why don't we go dancing?
-Have you finished cleaning hall?
+Have you finished cleaning the hall?
 He continued talking.
 You find people expressing many different opinions.
 Why do you keep asking such obvious question?
@@ -217,27 +217,26 @@ Let me take you out for dinner.
 How beautiful she is!
 Sit down, please!
 Get off the bus!
-Turn off (on) the light.
-Go downstairs! (Go upstairs!)
+Turn off  the light.
+Go downstairs! 
 Don't be nervous!
 Yes or no?
 Good heavens! 
 Thank you very much.
 Excuse me
-Damn
 Tell me in your own words.
 Listen to the recording.
 Help yourself
 Give me a break!
 That's right!
 Mind your own business!
-I beg you pardon. (pardon?)
+I beg you pardon. 
 Why not?
 Have a cigarette, won't you?
-Pleased to meet you ( Nice to meet you)
-Same to you. ( You too)
-I can open the door. (I can't open the door.)
-Can I open the door? (What can I open?)
+Pleased to meet you 
+Same to you. 
+I can open the door. 
+Can I open the door? 
 Could I open the door?
 Can't you open the door?
 Why can you open the door?
@@ -278,7 +277,7 @@ I wish I had met my uncle yesterday.
 I wish I could go and visit my aunt tomorrow.
 I'm sorry to interrupt you. 
 I gave the students a chance to say a few words too.
-You remember the sound [i] appearing in words like six,
+You remember the sound appearing in words like six,
 I've got a taxi waiting outside.
 I hope you won't find it all too difficult to understand and to
 I wish I could talk to you about art.
