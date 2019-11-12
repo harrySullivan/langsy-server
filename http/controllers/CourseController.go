@@ -49,14 +49,13 @@ func (CourseController) Patch(c *gin.Context) {
 	utils.HttpError(c, 400, err)
 
 	var coursePatch models.CoursePatch
-	err = c.Bind(&coursePatch)
+	err = c.ShouldBind(&coursePatch)
 	utils.HttpError(c, 400, err)
 
-	coursePatchTruncated := structs.Map(coursePatch)
+	patchMap := structs.Map(coursePatch)
 
-	err = services.CourseService{}.Update(&courseOid, &coursePatchTruncated)
+	err = services.CourseService{}.Update(&courseOid, &patchMap)
 	utils.HttpError(c, 500, err)
-	c.JSON(200, err)
 }
 
 func (CourseController) Delete(c *gin.Context) {

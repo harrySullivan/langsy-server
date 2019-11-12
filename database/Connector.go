@@ -40,3 +40,4 @@ func NewConnection(connectionString string) {
 func Collection(collectionName string) *mongo.Collection {
 	return database.Collection(collectionName)
 }
+
