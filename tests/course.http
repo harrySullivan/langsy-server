@@ -24,7 +24,7 @@ Content-Type: application/json
 
 {
   "Set": {
-    "score": 34
+    "score": 35555
   },
   "Push": {
     "logs": {

@@ -20,3 +20,8 @@ type CoursePatch struct {
 	Push bson.M `binding:"required" structs:"$push"`
 }
 
+var CoursePatchSchema = map[string][]string {
+	"$set": {"nextmotivator", "score"},
+	"$push": {"logs"},
+}
+

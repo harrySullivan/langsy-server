@@ -4,6 +4,7 @@ import (
 	"App/database/models"
 	"App/http/services"
 	"App/utils"
+	"errors"
 
 	"github.com/gin-gonic/gin"
 	"github.com/fatih/structs"
@@ -54,8 +55,13 @@ func (CourseController) Patch(c *gin.Context) {
 
 	patchMap := structs.Map(coursePatch)
 
-	err = services.CourseService{}.Update(&courseOid, &patchMap)
-	utils.HttpError(c, 500, err)
+	if PatchValid(patchMap, models.CoursePatchSchema) {
+		err = services.CourseService{}.Update(&courseOid, &patchMap)
+		utils.HttpError(c, 500, err)
+	} else {
+		utils.HttpError(c, 400, errors.New("invalid patch"))
+	}
+
 }
 
 func (CourseController) Delete(c *gin.Context) {
