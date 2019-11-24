@@ -10,9 +10,9 @@ const COURSES = "Courses"
 type Course struct {
 	ID             *primitive.ObjectID  `bson:"_id,omitempty"`
 	Language       string               `json:"language" bson:"language"`
-	NextMotivator  int                  `json:"nextmotivator" bson:"nextmotivator"`
+	NextReward     int                  `json:"nextreward" bson:"nextreward"`
 	Score          int                  `json:"score" bson:"score"`
-	Logs           []Log                `json:"logs" bson:"logs"`
+	Logs           []CourseLog          `json:"logs" bson:"logs"`
 }
 
 type CoursePatch struct {
@@ -21,7 +21,7 @@ type CoursePatch struct {
 }
 
 var CoursePatchSchema = map[string][]string {
-	"$set": {"nextmotivator", "score"},
+	"$set": {"nextreward", "score"},
 	"$push": {"logs"},
 }
 

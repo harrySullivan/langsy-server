@@ -28,7 +28,6 @@ Content-Type: application/json
   },
   "Push": {
     "logs": {
-      "phraseid": "5dc87a942a7dfb11d2f8e310",
       "timestamp": 3,
       "attempts": 1
     }
