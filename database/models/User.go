@@ -5,15 +5,15 @@ import (
 	"go.mongodb.org/mongo-driver/bson"
 )
 
-const USERS = "User"
+const USERS = "Users"
 
 type User struct {
-	ID             *primitive.ObjectID  `bson:"_id,omitempty"`
-	OauthID        string               `json:"oauthid" bson:"oauthid"`
-	Avatar         int                  `json:"avatar" bson:"avatar"`
-	Username       int                  `json:"username" bson:"username"`
-	Courses        []Course             `json:"courses" bson:"courses"`
-	Level          int                  `json:"level" bson:"level"`
+	ID             *primitive.ObjectID     `bson:"_id,omitempty"`
+	OauthID        string                  `json:"oauthid" bson:"oauthid"`
+	Avatar         string                  `json:"avatar" bson:"avatar"`
+	Username       string                  `json:"username" bson:"username"`
+	Courses        *[]primitive.ObjectID   `json:"courses" bson:"courses"`
+	Level          int                     `json:"level" bson:"level"`
 }
 
 type UserPatch struct {

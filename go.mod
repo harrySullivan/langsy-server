@@ -4,12 +4,7 @@ go 1.12
 
 require (
 	github.com/AboutGoods/go-utils v0.0.0-20190812090905-37a36651f3df
-	github.com/anoadragon453/PonySentence v0.0.0-20180607002039-e4f81f5c2ac5 // indirect
-	github.com/chewxy/lingo v0.0.0-20191019072920-eb4cad92a73d // indirect
-	github.com/creack/pty v1.1.9 // indirect
-	github.com/deckarep/golang-set v1.7.1 // indirect
 	github.com/fatih/structs v1.1.0
-	github.com/gertd/go-pluralize v0.1.1 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-gonic/gin v1.4.0
 	github.com/go-stack/stack v1.8.0 // indirect
@@ -19,13 +14,11 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/json-iterator/go v1.1.8 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/kr/pty v1.1.8 // indirect
 	github.com/mattn/go-isatty v0.0.10 // indirect
-	github.com/mingrammer/commonregex v1.0.1 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0 // indirect
 	github.com/tidwall/pretty v1.0.0 // indirect
-	github.com/ugorji/go v1.1.7 // indirect
+	github.com/ugorji/go/codec v1.1.7 // indirect
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c // indirect
 	github.com/xdg/stringprep v1.0.0 // indirect
 	go.mongodb.org/mongo-driver v1.1.3
@@ -34,11 +27,6 @@ require (
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e // indirect
 	golang.org/x/sys v0.0.0-20191110163157-d32e6e3b99c4 // indirect
 	golang.org/x/text v0.3.2 // indirect
-	golang.org/x/tools v0.0.0-20191109212701-97ad0ed33101 // indirect
-	golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898 // indirect
-	gonum.org/v1/gonum v0.6.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
-	gopkg.in/jdkato/prose.v2 v2.0.0-20190814032740-822d591a158c // indirect
-	gopkg.in/neurosnap/sentences.v1 v1.0.6 // indirect
 	gopkg.in/yaml.v2 v2.2.5 // indirect
 )
