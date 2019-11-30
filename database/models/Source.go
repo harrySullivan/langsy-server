@@ -11,3 +11,10 @@ type Source struct {
 	url            string               `json:"url" bson:"url"`
 }
 
+type LangData struct {
+	LangCode       string `json:"LangCode"`
+	Language       string `json:"Language"`
+	LanguageLocal  string `json:"LanguageLocal"`
+	RandLink       string `json:"RandLink"`
+}
+

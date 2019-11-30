@@ -1,0 +1,1235 @@
+{
+    "Wiki": [
+        {
+            "Language": "English",
+            "LanguageLocal": "English",
+            "ISO 639": "en"
+        },
+        {
+            "Language": "Cebuano",
+            "LanguageLocal": "Sinugboanong Binisaya",
+            "ISO 639": "ceb"
+        },
+        {
+            "Language": "Swedish",
+            "LanguageLocal": "Svenska",
+            "ISO 639": "sv"
+        },
+        {
+            "Language": "German",
+            "LanguageLocal": "Deutsch",
+            "ISO 639": "de"
+        },
+        {
+            "Language": "French",
+            "LanguageLocal": "Français",
+            "ISO 639": "fr"
+        },
+        {
+            "Language": "Dutch",
+            "LanguageLocal": "Nederlands",
+            "ISO 639": "nl"
+        },
+        {
+            "Language": "Russian",
+            "LanguageLocal": "Русский",
+            "ISO 639": "ru"
+        },
+        {
+            "Language": "Italian",
+            "LanguageLocal": "Italiano",
+            "ISO 639": "it"
+        },
+        {
+            "Language": "Spanish",
+            "LanguageLocal": "Español",
+            "ISO 639": "es"
+        },
+        {
+            "Language": "Polish",
+            "LanguageLocal": "Polski",
+            "ISO 639": "pl"
+        },
+        {
+            "Language": "Waray-Waray",
+            "LanguageLocal": "Winaray",
+            "ISO 639": "war"
+        },
+        {
+            "Language": "Vietnamese",
+            "LanguageLocal": "Tiếng Việt",
+            "ISO 639": "vi"
+        },
+        {
+            "Language": "Japanese",
+            "LanguageLocal": "日本語",
+            "ISO 639": "ja"
+        },
+        {
+            "Language": "Chinese",
+            "LanguageLocal": "中文",
+            "ISO 639": "zh"
+        },
+        {
+            "Language": "Arabic",
+            "LanguageLocal": "العربية",
+            "ISO 639": "ar"
+        },
+        {
+            "Language": "Portuguese",
+            "LanguageLocal": "Português",
+            "ISO 639": "pt"
+        },
+        {
+            "Language": "Ukrainian",
+            "LanguageLocal": "Українська",
+            "ISO 639": "uk"
+        },
+        {
+            "Language": "Persian",
+            "LanguageLocal": "فارسی",
+            "ISO 639": "fa"
+        },
+        {
+            "Language": "Catalan",
+            "LanguageLocal": "Català",
+            "ISO 639": "ca"
+        },
+        {
+            "Language": "Serbian",
+            "LanguageLocal": "Српски / Srpski",
+            "ISO 639": "sr"
+        },
+        {
+            "Language": "Norwegian (Bokmål)",
+            "LanguageLocal": "Norsk (Bokmål)",
+            "ISO 639": "no"
+        },
+        {
+            "Language": "Indonesian",
+            "LanguageLocal": "Bahasa Indonesia",
+            "ISO 639": "id"
+        },
+        {
+            "Language": "Korean",
+            "LanguageLocal": "한국어",
+            "ISO 639": "ko"
+        },
+        {
+            "Language": "Finnish",
+            "LanguageLocal": "Suomi",
+            "ISO 639": "fi"
+        },
+        {
+            "Language": "Hungarian",
+            "LanguageLocal": "Magyar",
+            "ISO 639": "hu"
+        },
+        {
+            "Language": "Serbo-Croatian",
+            "LanguageLocal": "Srpskohrvatski / Српскохрватски",
+            "ISO 639": "sh"
+        },
+        {
+            "Language": "Czech",
+            "LanguageLocal": "Čeština",
+            "ISO 639": "cs"
+        },
+        {
+            "Language": "Romanian",
+            "LanguageLocal": "Română",
+            "ISO 639": "ro"
+        },
+        {
+            "Language": "Basque",
+            "LanguageLocal": "Euskara",
+            "ISO 639": "eu"
+        },
+        {
+            "Language": "Turkish",
+            "LanguageLocal": "Türkçe",
+            "ISO 639": "tr"
+        },
+        {
+            "Language": "Malay",
+            "LanguageLocal": "Bahasa Melayu",
+            "ISO 639": "ms"
+        },
+        {
+            "Language": "Esperanto",
+            "LanguageLocal": "Esperanto",
+            "ISO 639": "eo"
+        },
+        {
+            "Language": "Armenian",
+            "LanguageLocal": "Հայերեն",
+            "ISO 639": "hy"
+        },
+        {
+            "Language": "Bulgarian",
+            "LanguageLocal": "Български",
+            "ISO 639": "bg"
+        },
+        {
+            "Language": "Danish",
+            "LanguageLocal": "Dansk",
+            "ISO 639": "da"
+        },
+        {
+            "Language": "Chechen",
+            "LanguageLocal": "Нохчийн",
+            "ISO 639": "ce"
+        },
+        {
+            "Language": "Hebrew",
+            "LanguageLocal": "עברית",
+            "ISO 639": "he"
+        },
+        {
+            "Language": "Slovak",
+            "LanguageLocal": "Slovenčina",
+            "ISO 639": "sk"
+        },
+        {
+            "Language": "Min Nan",
+            "LanguageLocal": "Bân-lâm-gú",
+            "ISO 639": "zh-min-nan"
+        },
+        {
+            "Language": "Kazakh",
+            "LanguageLocal": "Қазақша",
+            "ISO 639": "kk"
+        },
+        {
+            "Language": "Minangkabau",
+            "LanguageLocal": "Minangkabau",
+            "ISO 639": "min"
+        },
+        {
+            "Language": "Croatian",
+            "LanguageLocal": "Hrvatski",
+            "ISO 639": "hr"
+        },
+        {
+            "Language": "Estonian",
+            "LanguageLocal": "Eesti",
+            "ISO 639": "et"
+        },
+        {
+            "Language": "Lithuanian",
+            "LanguageLocal": "Lietuvių",
+            "ISO 639": "lt"
+        },
+        {
+            "Language": "Belarusian",
+            "LanguageLocal": "Беларуская",
+            "ISO 639": "be"
+        },
+        {
+            "Language": "Greek",
+            "LanguageLocal": "Ελληνικά",
+            "ISO 639": "el"
+        },
+        {
+            "Language": "Slovenian",
+            "LanguageLocal": "Slovenščina",
+            "ISO 639": "sl"
+        },
+        {
+            "Language": "Galician",
+            "LanguageLocal": "Galego",
+            "ISO 639": "gl"
+        },
+        {
+            "Language": "South Azerbaijani",
+            "LanguageLocal": "تۆرکجه",
+            "ISO 639": "azb"
+        },
+        {
+            "Language": "Azerbaijani",
+            "LanguageLocal": "Azərbaycanca",
+            "ISO 639": "az"
+        },
+        {
+            "Language": "Simple English",
+            "LanguageLocal": "Simple English",
+            "ISO 639": "simple"
+        },
+        {
+            "Language": "Norwegian (Nynorsk)",
+            "LanguageLocal": "Nynorsk",
+            "ISO 639": "nn"
+        },
+        {
+            "Language": "Urdu",
+            "LanguageLocal": "اردو",
+            "ISO 639": "ur"
+        },
+        {
+            "Language": "Hindi",
+            "LanguageLocal": "हिन्दी",
+            "ISO 639": "hi"
+        },
+        {
+            "Language": "Thai",
+            "LanguageLocal": "ไทย",
+            "ISO 639": "th"
+        },
+        {
+            "Language": "Georgian",
+            "LanguageLocal": "ქართული",
+            "ISO 639": "ka"
+        },
+        {
+            "Language": "Uzbek",
+            "LanguageLocal": "O‘zbek",
+            "ISO 639": "uz"
+        },
+        {
+            "Language": "Latin",
+            "LanguageLocal": "Latina",
+            "ISO 639": "la"
+        },
+        {
+            "Language": "Tamil",
+            "LanguageLocal": "தமிழ்",
+            "ISO 639": "ta"
+        },
+        {
+            "Language": "Volapük",
+            "LanguageLocal": "Volapük",
+            "ISO 639": "vo"
+        },
+        {
+            "Language": "Welsh",
+            "LanguageLocal": "Cymraeg",
+            "ISO 639": "cy"
+        },
+        {
+            "Language": "Macedonian",
+            "LanguageLocal": "Македонски",
+            "ISO 639": "mk"
+        },
+        {
+            "Language": "Asturian",
+            "LanguageLocal": "Asturianu",
+            "ISO 639": "ast"
+        },
+        {
+            "Language": "Tajik",
+            "LanguageLocal": "Тоҷикӣ",
+            "ISO 639": "tg"
+        },
+        {
+            "Language": "Latvian",
+            "LanguageLocal": "Latviešu",
+            "ISO 639": "lv"
+        },
+        {
+            "Language": "Malagasy",
+            "LanguageLocal": "Malagasy",
+            "ISO 639": "mg"
+        },
+        {
+            "Language": "Tatar",
+            "LanguageLocal": "Tatarça / Татарча",
+            "ISO 639": "tt"
+        },
+        {
+            "Language": "Afrikaans",
+            "LanguageLocal": "Afrikaans",
+            "ISO 639": "af"
+        },
+        {
+            "Language": "Occitan",
+            "LanguageLocal": "Occitan",
+            "ISO 639": "oc"
+        },
+        {
+            "Language": "Bosnian",
+            "LanguageLocal": "Bosanski",
+            "ISO 639": "bs"
+        },
+        {
+            "Language": "Kirghiz",
+            "LanguageLocal": "Кыргызча",
+            "ISO 639": "ky"
+        },
+        {
+            "Language": "Albanian",
+            "LanguageLocal": "Shqip",
+            "ISO 639": "sq"
+        },
+        {
+            "Language": "Bengali",
+            "LanguageLocal": "বাংলা",
+            "ISO 639": "bn"
+        },
+        {
+            "Language": "Tagalog",
+            "LanguageLocal": "Tagalog",
+            "ISO 639": "tl"
+        },
+        {
+            "Language": "Cantonese",
+            "LanguageLocal": "粵語",
+            "ISO 639": "zh-yue"
+        },
+        {
+            "Language": "Newar",
+            "LanguageLocal": "नेपाल भाषा",
+            "ISO 639": "new"
+        },
+        {
+            "Language": "Telugu",
+            "LanguageLocal": "తెలుగు",
+            "ISO 639": "te"
+        },
+        {
+            "Language": "Belarusian (Taraškievica)",
+            "LanguageLocal": "Беларуская (тарашкевіца)",
+            "ISO 639": "be-tarask"
+        },
+        {
+            "Language": "Breton",
+            "LanguageLocal": "Brezhoneg",
+            "ISO 639": "br"
+        },
+        {
+            "Language": "Malayalam",
+            "LanguageLocal": "മലയാളം",
+            "ISO 639": "ml"
+        },
+        {
+            "Language": "Piedmontese",
+            "LanguageLocal": "Piemontèis",
+            "ISO 639": "pms"
+        },
+        {
+            "Language": "Sundanese",
+            "LanguageLocal": "Basa Sunda",
+            "ISO 639": "su"
+        },
+        {
+            "Language": "Low Saxon",
+            "LanguageLocal": "Plattdüütsch",
+            "ISO 639": "nds"
+        },
+        {
+            "Language": "Luxembourgish",
+            "LanguageLocal": "Lëtzebuergesch",
+            "ISO 639": "lb"
+        },
+        {
+            "Language": "Haitian",
+            "LanguageLocal": "Krèyol ayisyen",
+            "ISO 639": "ht"
+        },
+        {
+            "Language": "Javanese",
+            "LanguageLocal": "Basa Jawa",
+            "ISO 639": "jv"
+        },
+        {
+            "Language": "Scots",
+            "LanguageLocal": "Scots",
+            "ISO 639": "sco"
+        },
+        {
+            "Language": "Marathi",
+            "LanguageLocal": "मराठी",
+            "ISO 639": "mr"
+        },
+        {
+            "Language": "Swahili",
+            "LanguageLocal": "Kiswahili",
+            "ISO 639": "sw"
+        },
+        {
+            "Language": "Irish",
+            "LanguageLocal": "Gaeilge",
+            "ISO 639": "ga"
+        },
+        {
+            "Language": "Silesian",
+            "LanguageLocal": "Ślůnski",
+            "ISO 639": "szl"
+        },
+        {
+            "Language": "Western Punjabi",
+            "LanguageLocal": "شاہ مکھی پنجابی (Shāhmukhī Pañjābī)",
+            "ISO 639": "pnb"
+        },
+        {
+            "Language": "Bashkir",
+            "LanguageLocal": "Башҡорт",
+            "ISO 639": "ba"
+        },
+        {
+            "Language": "Icelandic",
+            "LanguageLocal": "Íslenska",
+            "ISO 639": "is"
+        },
+        {
+            "Language": "Burmese",
+            "LanguageLocal": "မြန်မာဘာသာ",
+            "ISO 639": "my"
+        },
+        {
+            "Language": "West Frisian",
+            "LanguageLocal": "Frysk",
+            "ISO 639": "fy"
+        },
+        {
+            "Language": "Chuvash",
+            "LanguageLocal": "Чăваш",
+            "ISO 639": "cv"
+        },
+        {
+            "Language": "Lombard",
+            "LanguageLocal": "Lumbaart",
+            "ISO 639": "lmo"
+        },
+        {
+            "Language": "Aragonese",
+            "LanguageLocal": "Aragonés",
+            "ISO 639": "an"
+        },
+        {
+            "Language": "Nepali",
+            "LanguageLocal": "नेपाली",
+            "ISO 639": "ne"
+        },
+        {
+            "Language": "Punjabi",
+            "LanguageLocal": "ਪੰਜਾਬੀ",
+            "ISO 639": "pa"
+        },
+        {
+            "Language": "Yoruba",
+            "LanguageLocal": "Yorùbá",
+            "ISO 639": "yo"
+        },
+        {
+            "Language": "Bavarian",
+            "LanguageLocal": "Boarisch",
+            "ISO 639": "bar"
+        },
+        {
+            "Language": "Ido",
+            "LanguageLocal": "Ido",
+            "ISO 639": "io"
+        },
+        {
+            "Language": "Gujarati",
+            "LanguageLocal": "ગુજરાતી",
+            "ISO 639": "gu"
+        },
+        {
+            "Language": "Alemannic",
+            "LanguageLocal": "Alemannisch",
+            "ISO 639": "als"
+        },
+        {
+            "Language": "Kurdish",
+            "LanguageLocal": "Kurdî / كوردی",
+            "ISO 639": "ku"
+        },
+        {
+            "Language": "Sicilian",
+            "LanguageLocal": "Sicilianu",
+            "ISO 639": "scn"
+        },
+        {
+            "Language": "Egyptian Arabic",
+            "LanguageLocal": "مصرى (Maṣri)",
+            "ISO 639": "arz"
+        },
+        {
+            "Language": "Kannada",
+            "LanguageLocal": "ಕನ್ನಡ",
+            "ISO 639": "kn"
+        },
+        {
+            "Language": "Bishnupriya Manipuri",
+            "LanguageLocal": "ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী",
+            "ISO 639": "bpy"
+        },
+        {
+            "Language": "Sorani",
+            "LanguageLocal": "Soranî / کوردی",
+            "ISO 639": "ckb"
+        },
+        {
+            "Language": "Wu",
+            "LanguageLocal": "吴语",
+            "ISO 639": "wuu"
+        },
+        {
+            "Language": "Interlingua",
+            "LanguageLocal": "Interlingua",
+            "ISO 639": "ia"
+        },
+        {
+            "Language": "Quechua",
+            "LanguageLocal": "Runa Simi",
+            "ISO 639": "qu"
+        },
+        {
+            "Language": "Mongolian",
+            "LanguageLocal": "Монгол",
+            "ISO 639": "mn"
+        },
+        {
+            "Language": "Samogitian",
+            "LanguageLocal": "Žemaitėška",
+            "ISO 639": "bat-smg"
+        },
+        {
+            "Language": "Sinhalese",
+            "LanguageLocal": "සිංහල",
+            "ISO 639": "si"
+        },
+        {
+            "Language": "Walloon",
+            "LanguageLocal": "Walon",
+            "ISO 639": "wa"
+        },
+        {
+            "Language": "Min Dong",
+            "LanguageLocal": "Mìng-dĕ̤ng-ngṳ̄",
+            "ISO 639": "cdo"
+        },
+        {
+            "Language": "Oriya",
+            "LanguageLocal": "ଓଡ଼ିଆ",
+            "ISO 639": "or"
+        },
+        {
+            "Language": "Scottish Gaelic",
+            "LanguageLocal": "Gàidhlig",
+            "ISO 639": "gd"
+        },
+        {
+            "Language": "Yiddish",
+            "LanguageLocal": "ייִדיש",
+            "ISO 639": "yi"
+        },
+        {
+            "Language": "Amharic",
+            "LanguageLocal": "አማርኛ",
+            "ISO 639": "am"
+        },
+        {
+            "Language": "Neapolitan",
+            "LanguageLocal": "Nnapulitano",
+            "ISO 639": "nap"
+        },
+        {
+            "Language": "Buginese",
+            "LanguageLocal": "Basa Ugi",
+            "ISO 639": "bug"
+        },
+        {
+            "Language": "Ilokano",
+            "LanguageLocal": "Ilokano",
+            "ISO 639": "ilo"
+        },
+        {
+            "Language": "Maithili",
+            "LanguageLocal": "मैथिली",
+            "ISO 639": "mai"
+        },
+        {
+            "Language": "Upper Sorbian",
+            "LanguageLocal": "Hornjoserbsce",
+            "ISO 639": "hsb"
+        },
+        {
+            "Language": "Mingrelian",
+            "LanguageLocal": "მარგალური (Margaluri)",
+            "ISO 639": "xmf"
+        },
+        {
+            "Language": "Banyumasan",
+            "LanguageLocal": "Basa Banyumasan",
+            "ISO 639": "map-bms"
+        },
+        {
+            "Language": "Faroese",
+            "LanguageLocal": "Føroyskt",
+            "ISO 639": "fo"
+        },
+        {
+            "Language": "Mazandarani",
+            "LanguageLocal": "مَزِروني",
+            "ISO 639": "mzn"
+        },
+        {
+            "Language": "Zazaki",
+            "LanguageLocal": "Zazaki",
+            "ISO 639": "diq"
+        },
+        {
+            "Language": "Limburgish",
+            "LanguageLocal": "Limburgs",
+            "ISO 639": "li"
+        },
+        {
+            "Language": "Sindhi",
+            "LanguageLocal": "سنڌي، سندھی ، सिन्ध",
+            "ISO 639": "sd"
+        },
+        {
+            "Language": "Venetian",
+            "LanguageLocal": "Vèneto",
+            "ISO 639": "vec"
+        },
+        {
+            "Language": "Emilian-Romagnol",
+            "LanguageLocal": "Emiliàn e rumagnòl",
+            "ISO 639": "eml"
+        },
+        {
+            "Language": "Sakha",
+            "LanguageLocal": "Саха тыла (Saxa Tyla)",
+            "ISO 639": "sah"
+        },
+        {
+            "Language": "Ossetian",
+            "LanguageLocal": "Иронау",
+            "ISO 639": "os"
+        },
+        {
+            "Language": "Sanskrit",
+            "LanguageLocal": "संस्कृतम्",
+            "ISO 639": "sa"
+        },
+        {
+            "Language": "Pashto",
+            "LanguageLocal": "پښتو",
+            "ISO 639": "ps"
+        },
+        {
+            "Language": "Acehnese",
+            "LanguageLocal": "Bahsa Acèh",
+            "ISO 639": "ace"
+        },
+        {
+            "Language": "Hill Mari",
+            "LanguageLocal": "Кырык Мары (Kyryk Mary)",
+            "ISO 639": "mrj"
+        },
+        {
+            "Language": "Meadow Mari",
+            "LanguageLocal": "Олык Марий (Olyk Marij)",
+            "ISO 639": "mhr"
+        },
+        {
+            "Language": "Navajo",
+            "LanguageLocal": "Diné bizaad",
+            "ISO 639": "nv"
+        },
+        {
+            "Language": "Classical Chinese",
+            "LanguageLocal": "古文 / 文言文",
+            "ISO 639": "zh-classical"
+        }
+    ],
+    "Google": [
+        {
+            "Google": "af"
+        },
+        {
+            "Google": "sq"
+        },
+        {
+            "Google": "ar"
+        },
+        {
+            "Google": "az"
+        },
+        {
+            "Google": "eu"
+        },
+        {
+            "Google": "bn"
+        },
+        {
+            "Google": "be"
+        },
+        {
+            "Google": "bg"
+        },
+        {
+            "Google": "ca"
+        },
+        {
+            "Google": "zh-CN"
+        },
+        {
+            "Google": "zh-TW"
+        },
+        {
+            "Google": "hr"
+        },
+        {
+            "Google": "cs"
+        },
+        {
+            "Google": "da"
+        },
+        {
+            "Google": "nl"
+        },
+        {
+            "Google": "en"
+        },
+        {
+            "Google": "eo"
+        },
+        {
+            "Google": "et"
+        },
+        {
+            "Google": "tl"
+        },
+        {
+            "Google": "fi"
+        },
+        {
+            "Google": "fr"
+        },
+        {
+            "Google": "gl"
+        },
+        {
+            "Google": "ka"
+        },
+        {
+            "Google": "de"
+        },
+        {
+            "Google": "el"
+        },
+        {
+            "Google": "gu"
+        },
+        {
+            "Google": "ht"
+        },
+        {
+            "Google": "iw"
+        },
+        {
+            "Google": "hi"
+        },
+        {
+            "Google": "hu"
+        },
+        {
+            "Google": "is"
+        },
+        {
+            "Google": "id"
+        },
+        {
+            "Google": "ga"
+        },
+        {
+            "Google": "it"
+        },
+        {
+            "Google": "ja"
+        },
+        {
+            "Google": "kn"
+        },
+        {
+            "Google": "ko"
+        },
+        {
+            "Google": "la"
+        },
+        {
+            "Google": "lv"
+        },
+        {
+            "Google": "lt"
+        },
+        {
+            "Google": "mk"
+        },
+        {
+            "Google": "ms"
+        },
+        {
+            "Google": "mt"
+        },
+        {
+            "Google": "no"
+        },
+        {
+            "Google": "fa"
+        },
+        {
+            "Google": "pl"
+        },
+        {
+            "Google": "pt"
+        },
+        {
+            "Google": "ro"
+        },
+        {
+            "Google": "ru"
+        },
+        {
+            "Google": "sr"
+        },
+        {
+            "Google": "sk"
+        },
+        {
+            "Google": "sl"
+        },
+        {
+            "Google": "es"
+        },
+        {
+            "Google": "sw"
+        },
+        {
+            "Google": "sv"
+        },
+        {
+            "Google": "ta"
+        },
+        {
+            "Google": "te"
+        },
+        {
+            "Google": "th"
+        },
+        {
+            "Google": "tr"
+        },
+        {
+            "Google": "uk"
+        },
+        {
+            "Google": "ur"
+        },
+        {
+            "Google": "vi"
+        },
+        {
+            "Google": "cy"
+        },
+        {
+            "Google": "yi"
+        }
+    ],
+    "Merged": [
+        {
+            "LangCode": "en",
+            "Language": "English",
+            "LanguageLocal": "English"
+        },
+        {
+            "LangCode": "sv",
+            "Language": "Swedish",
+            "LanguageLocal": "Svenska"
+        },
+        {
+            "LangCode": "ar",
+            "Language": "Arabic",
+            "LanguageLocal": "العربية"
+        },
+        {
+            "LangCode": "de",
+            "Language": "German",
+            "LanguageLocal": "Deutsch"
+        },
+        {
+            "LangCode": "az",
+            "Language": "Azerbaijani",
+            "LanguageLocal": "Azərbaycanca"
+        },
+        {
+            "LangCode": "fr",
+            "Language": "French",
+            "LanguageLocal": "Français"
+        },
+        {
+            "LangCode": "eu",
+            "Language": "Basque",
+            "LanguageLocal": "Euskara"
+        },
+        {
+            "LangCode": "nl",
+            "Language": "Dutch",
+            "LanguageLocal": "Nederlands"
+        },
+        {
+            "LangCode": "ru",
+            "Language": "Russian",
+            "LanguageLocal": "Русский"
+        },
+        {
+            "LangCode": "be",
+            "Language": "Belarusian",
+            "LanguageLocal": "Беларуская"
+        },
+        {
+            "LangCode": "it",
+            "Language": "Italian",
+            "LanguageLocal": "Italiano"
+        },
+        {
+            "LangCode": "bg",
+            "Language": "Bulgarian",
+            "LanguageLocal": "Български"
+        },
+        {
+            "LangCode": "es",
+            "Language": "Spanish",
+            "LanguageLocal": "Español"
+        },
+        {
+            "LangCode": "ca",
+            "Language": "Catalan",
+            "LanguageLocal": "Català"
+        },
+        {
+            "LangCode": "pl",
+            "Language": "Polish",
+            "LanguageLocal": "Polski"
+        },
+        {
+            "LangCode": "vi",
+            "Language": "Vietnamese",
+            "LanguageLocal": "Tiếng Việt"
+        },
+        {
+            "LangCode": "hr",
+            "Language": "Croatian",
+            "LanguageLocal": "Hrvatski"
+        },
+        {
+            "LangCode": "ja",
+            "Language": "Japanese",
+            "LanguageLocal": "日本語"
+        },
+        {
+            "LangCode": "cs",
+            "Language": "Czech",
+            "LanguageLocal": "Čeština"
+        },
+        {
+            "LangCode": "da",
+            "Language": "Danish",
+            "LanguageLocal": "Dansk"
+        },
+        {
+            "LangCode": "pt",
+            "Language": "Portuguese",
+            "LanguageLocal": "Português"
+        },
+        {
+            "LangCode": "uk",
+            "Language": "Ukrainian",
+            "LanguageLocal": "Українська"
+        },
+        {
+            "LangCode": "eo",
+            "Language": "Esperanto",
+            "LanguageLocal": "Esperanto"
+        },
+        {
+            "LangCode": "fa",
+            "Language": "Persian",
+            "LanguageLocal": "فارسی"
+        },
+        {
+            "LangCode": "et",
+            "Language": "Estonian",
+            "LanguageLocal": "Eesti"
+        },
+        {
+            "LangCode": "sr",
+            "Language": "Serbian",
+            "LanguageLocal": "Српски / Srpski"
+        },
+        {
+            "LangCode": "fi",
+            "Language": "Finnish",
+            "LanguageLocal": "Suomi"
+        },
+        {
+            "LangCode": "no",
+            "Language": "Norwegian (Bokmål)",
+            "LanguageLocal": "Norsk (Bokmål)"
+        },
+        {
+            "LangCode": "id",
+            "Language": "Indonesian",
+            "LanguageLocal": "Bahasa Indonesia"
+        },
+        {
+            "LangCode": "gl",
+            "Language": "Galician",
+            "LanguageLocal": "Galego"
+        },
+        {
+            "LangCode": "ko",
+            "Language": "Korean",
+            "LanguageLocal": "한국어"
+        },
+        {
+            "LangCode": "ka",
+            "Language": "Georgian",
+            "LanguageLocal": "ქართული"
+        },
+        {
+            "LangCode": "hu",
+            "Language": "Hungarian",
+            "LanguageLocal": "Magyar"
+        },
+        {
+            "LangCode": "el",
+            "Language": "Greek",
+            "LanguageLocal": "Ελληνικά"
+        },
+        {
+            "LangCode": "ro",
+            "Language": "Romanian",
+            "LanguageLocal": "Română"
+        },
+        {
+            "LangCode": "hi",
+            "Language": "Hindi",
+            "LanguageLocal": "हिन्दी"
+        },
+        {
+            "LangCode": "tr",
+            "Language": "Turkish",
+            "LanguageLocal": "Türkçe"
+        },
+        {
+            "LangCode": "ms",
+            "Language": "Malay",
+            "LanguageLocal": "Bahasa Melayu"
+        },
+        {
+            "LangCode": "sk",
+            "Language": "Slovak",
+            "LanguageLocal": "Slovenčina"
+        },
+        {
+            "LangCode": "la",
+            "Language": "Latin",
+            "LanguageLocal": "Latina"
+        },
+        {
+            "LangCode": "lv",
+            "Language": "Latvian",
+            "LanguageLocal": "Latviešu"
+        },
+        {
+            "LangCode": "lt",
+            "Language": "Lithuanian",
+            "LanguageLocal": "Lietuvių"
+        },
+        {
+            "LangCode": "mk",
+            "Language": "Macedonian",
+            "LanguageLocal": "Македонски"
+        },
+        {
+            "LangCode": "sl",
+            "Language": "Slovenian",
+            "LanguageLocal": "Slovenščina"
+        },
+        {
+            "LangCode": "ur",
+            "Language": "Urdu",
+            "LanguageLocal": "اردو"
+        },
+        {
+            "LangCode": "th",
+            "Language": "Thai",
+            "LanguageLocal": "ไทย"
+        },
+        {
+            "LangCode": "ta",
+            "Language": "Tamil",
+            "LanguageLocal": "தமிழ்"
+        },
+        {
+            "LangCode": "cy",
+            "Language": "Welsh",
+            "LanguageLocal": "Cymraeg"
+        },
+        {
+            "LangCode": "af",
+            "Language": "Afrikaans",
+            "LanguageLocal": "Afrikaans"
+        },
+        {
+            "LangCode": "sq",
+            "Language": "Albanian",
+            "LanguageLocal": "Shqip"
+        },
+        {
+            "LangCode": "bn",
+            "Language": "Bengali",
+            "LanguageLocal": "বাংলা"
+        },
+        {
+            "LangCode": "tl",
+            "Language": "Tagalog",
+            "LanguageLocal": "Tagalog"
+        },
+        {
+            "LangCode": "te",
+            "Language": "Telugu",
+            "LanguageLocal": "తెలుగు"
+        },
+        {
+            "LangCode": "ht",
+            "Language": "Haitian",
+            "LanguageLocal": "Krèyol ayisyen"
+        },
+        {
+            "LangCode": "sw",
+            "Language": "Swahili",
+            "LanguageLocal": "Kiswahili"
+        },
+        {
+            "LangCode": "ga",
+            "Language": "Irish",
+            "LanguageLocal": "Gaeilge"
+        },
+        {
+            "LangCode": "is",
+            "Language": "Icelandic",
+            "LanguageLocal": "Íslenska"
+        },
+        {
+            "LangCode": "gu",
+            "Language": "Gujarati",
+            "LanguageLocal": "ગુજરાતી"
+        },
+        {
+            "LangCode": "kn",
+            "Language": "Kannada",
+            "LanguageLocal": "ಕನ್ನಡ"
+        },
+        {
+            "LangCode": "yi",
+            "Language": "Yiddish",
+            "LanguageLocal": "ייִדיש"
+        }
+    ]
+}

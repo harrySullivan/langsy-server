@@ -1,0 +1,61 @@
+Column1 Wiki.Language Wiki.LanguageLocal
+en  English English
+sv  Swedish Svenska
+ar  Arabic  العربية
+de  German  Deutsch
+az  Azerbaijani Azərbaycanca
+fr  French  Français
+eu  Basque  Euskara
+nl  Dutch Nederlands
+ru  Russian Русский
+be  Belarusian  Беларуская
+it  Italian Italiano
+bg  Bulgarian Български
+es  Spanish Español
+ca  Catalan Català
+pl  Polish  Polski
+vi  Vietnamese  Tiếng Việt
+hr  Croatian  Hrvatski
+ja  Japanese  日本語
+cs  Czech Čeština
+da  Danish  Dansk
+pt  Portuguese  Português
+uk  Ukrainian Українська
+eo  Esperanto Esperanto
+fa  Persian فارسی
+et  Estonian  Eesti
+sr  Serbian Српски / Srpski
+fi  Finnish Suomi
+no  Norwegian (Bokmål)  Norsk (Bokmål)
+id  Indonesian  Bahasa Indonesia
+gl  Galician  Galego
+ko  Korean  한국어
+ka  Georgian  ქართული
+hu  Hungarian Magyar
+el  Greek Ελληνικά
+ro  Romanian  Română
+hi  Hindi हिन्दी
+tr  Turkish Türkçe
+ms  Malay Bahasa Melayu
+sk  Slovak  Slovenčina
+la  Latin Latina
+lv  Latvian Latviešu
+lt  Lithuanian  Lietuvių
+mk  Macedonian  Македонски
+sl  Slovenian Slovenščina
+ur  Urdu  اردو
+th  Thai  ไทย
+ta  Tamil தமிழ்
+cy  Welsh Cymraeg
+af  Afrikaans Afrikaans
+sq  Albanian  Shqip
+bn  Bengali বাংলা
+tl  Tagalog Tagalog
+te  Telugu  తెలుగు
+ht  Haitian Krèyol ayisyen
+sw  Swahili Kiswahili
+ga  Irish Gaeilge
+is  Icelandic Íslenska
+gu  Gujarati  ગુજરાતી
+kn  Kannada ಕನ್ನಡ
+yi  Yiddish ייִדיש

@@ -17,7 +17,7 @@ type CourseController struct {
 
 func (CourseController) List(c *gin.Context) {
 	courses, err := services.CourseService{}.FindAll()
-	utils.HttpError(c, 500, err)
+	if utils.HttpError(c, 500, err) { return }
 
 	c.JSON(200, courses)
 }
@@ -25,10 +25,10 @@ func (CourseController) List(c *gin.Context) {
 func (CourseController) Get(c *gin.Context) {
 	courseId := c.Param("courseId")
 	courseOid, err := primitive.ObjectIDFromHex(courseId)
-	utils.HttpError(c, 400, err)
+	if utils.HttpError(c, 400, err) { return }
 
 	course, err := services.CourseService{}.FindById(&courseOid)
-	utils.HttpError(c, 500, err)
+	if utils.HttpError(c, 500, err) { return }
 
 	c.JSON(200, course)
 }
@@ -36,10 +36,10 @@ func (CourseController) Get(c *gin.Context) {
 func (CourseController) Post(c *gin.Context) {
 	var course models.Course
 	err := c.Bind(&course)
-	utils.HttpError(c, 400, err)
+	if utils.HttpError(c, 400, err) { return }
 
 	iCourse, iErr := services.CourseService{}.Insert(&course)
-	utils.HttpError(c, 500, iErr)
+	if utils.HttpError(c, 500, iErr) { return }
 
 	c.JSON(200, iCourse)
 }
@@ -47,19 +47,19 @@ func (CourseController) Post(c *gin.Context) {
 func (CourseController) Patch(c *gin.Context) {
 	courseId := c.Param("courseId")
 	courseOid, err := primitive.ObjectIDFromHex(courseId)
-	utils.HttpError(c, 400, err)
+	if utils.HttpError(c, 400, err) { return }
 
 	var coursePatch models.CoursePatch
 	err = c.ShouldBind(&coursePatch)
-	utils.HttpError(c, 400, err)
+	if utils.HttpError(c, 400, err) { return }
 
 	patchMap := structs.Map(coursePatch)
 
 	if PatchValid(patchMap, models.CoursePatchSchema) {
 		err = services.CourseService{}.Update(&courseOid, &patchMap)
-		utils.HttpError(c, 500, err)
+		if utils.HttpError(c, 500, err) { return }
 	} else {
-		utils.HttpError(c, 400, errors.New("invalid patch"))
+		if utils.HttpError(c, 400, errors.New("invalid patch")) { return }
 	}
 
 }

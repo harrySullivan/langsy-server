@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/harrySullivan/langsy-server/issues"
   },
-  "homepage": "https://github.com/harrySullivan/langsy-server#readme"
+  "homepage": "https://github.com/harrySullivan/langsy-server#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "excel": "^1.0.1"
+  }
 }

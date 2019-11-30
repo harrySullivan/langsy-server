@@ -4,6 +4,9 @@ import (
 	"App/database"
 	"App/database/models"
 
+	"errors"
+	"fmt"
+
 	"github.com/AboutGoods/go-utils/log"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
@@ -22,7 +25,7 @@ func (UserService) FindAll() (*[]models.User, error) {
 	cur, err := UserService{}.Collection().Find(database.Context, bson.D{})
 	err = cur.All(database.Context, &users)
 	
-	log.PanicOnError(err, "cannot find all users in database")
+	log.NoticeOnError(err, "cannot find all users in database")
 
 	return &users, err
 
@@ -33,15 +36,30 @@ func (UserService) FindById(userId *primitive.ObjectID) (*models.User, error) {
 	var user models.User
 	err := UserService{}.Collection().FindOne(database.Context, filter).Decode(&user)
 
-	log.PanicOnError(err, "cannot find user in database")
+	log.NoticeOnError(err, "cannot find user in database")
+
+	return &user, err
+}
+
+func (UserService) FindByUsername(username string) (*models.User, error) {
+	filter := bson.M{"username": username}
+	var user models.User
+	err := UserService{}.Collection().FindOne(database.Context, filter).Decode(&user)
+
+	log.NoticeOnError(err, "cannot find user in database")
 
 	return &user, err
 }
 
 func (UserService) Insert(user *models.User) (*models.User, error) {
+	_, err := UserService{}.FindByUsername(user.Username)
+	if err == nil {
+		fmt.Println("Username taken error")
+		return &models.User{}, errors.New("Username taken")
+	}
 	response, err := UserService{}.Collection().InsertOne(database.Context, user)
 
-	log.PanicOnError(err, "cannot insert user to database")
+	log.NoticeOnError(err, "cannot insert user to database")
 
 	id := response.InsertedID.(primitive.ObjectID)
 	user.ID = &id
@@ -52,13 +70,13 @@ func (UserService) Update(userId *primitive.ObjectID, userPatch *map[string]inte
 	_, err := UserService{}.Collection().UpdateOne(database.Context, bson.M{"_id": *userId},
 		*userPatch)
 
-	log.PanicOnError(err, "cannot update user to database")
+	log.NoticeOnError(err, "cannot update user to database")
 
 	return err
 }
 
 func (UserService) Delete(userId *primitive.ObjectID) error {
 	_, err := UserService{}.Collection().DeleteOne(database.Context, bson.M{"_id": userId})
-	log.PanicOnError(err, "cannot delete user to database")
+	log.NoticeOnError(err, "cannot delete user to database")
 	return err
 }

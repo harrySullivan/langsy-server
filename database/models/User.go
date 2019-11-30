@@ -9,9 +9,9 @@ const USERS = "Users"
 
 type User struct {
 	ID             *primitive.ObjectID     `bson:"_id,omitempty"`
-	OauthID        string                  `json:"oauthid" bson:"oauthid"`
 	Avatar         string                  `json:"avatar" bson:"avatar"`
 	Username       string                  `json:"username" bson:"username"`
+	Password       string                  `json:"password" bson:"password"`
 	Courses        *[]primitive.ObjectID   `json:"courses" bson:"courses"`
 	Level          int                     `json:"level" bson:"level"`
 }

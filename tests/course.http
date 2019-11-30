@@ -1,7 +1,8 @@
-@host = http://localhost:8000
+@host = http://localhost:8080
 ###
 
 GET {{host}}/courses
+X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.t_LP_wZp9I6gmo6pLgrmJctgsiy9o5vgxbXk2zHe6h0
 
 ###
 

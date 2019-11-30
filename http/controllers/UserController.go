@@ -8,7 +8,6 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/fatih/structs"
-	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
 type UserController struct {
@@ -17,60 +16,43 @@ type UserController struct {
 
 func (UserController) List(c *gin.Context) {
 	users, err := services.UserService{}.FindAll()
-	utils.HttpError(c, 500, err)
+	if utils.HttpError(c, 500, err) { return }
 
 	c.JSON(200, users)
 }
 
 func (UserController) Get(c *gin.Context) {
-	userId := c.Param("userId")
-	userOid, err := primitive.ObjectIDFromHex(userId)
-	utils.HttpError(c, 400, err)
+	userOid := GetUserID(c)
 
-	user, err := services.UserService{}.FindById(&userOid)
-	utils.HttpError(c, 500, err)
+	user, err := services.UserService{}.FindById(userOid)
+	if utils.HttpError(c, 500, err) { return }
 
 	c.JSON(200, user)
 }
 
-func (UserController) Post(c *gin.Context) {
-	var user models.User
-	err := c.Bind(&user)
-	utils.HttpError(c, 400, err)
-
-	iCourse, iErr := services.UserService{}.Insert(&user)
-	utils.HttpError(c, 500, iErr)
-
-	c.JSON(200, iCourse)
-}
-
 func (UserController) Patch(c *gin.Context) {
-	userId := c.Param("userId")
-	userOid, err := primitive.ObjectIDFromHex(userId)
-	utils.HttpError(c, 400, err)
+	userOid := GetUserID(c)
 
 	var userPatch models.UserPatch
-	err = c.ShouldBind(&userPatch)
-	utils.HttpError(c, 400, err)
+	err := c.ShouldBind(&userPatch)
+	if utils.HttpError(c, 400, err) { return }
 
 	patchMap := structs.Map(userPatch)
 
 	if PatchValid(patchMap, models.UserPatchSchema) {
-		err = services.UserService{}.Update(&userOid, &patchMap)
-		utils.HttpError(c, 500, err)
+		err = services.UserService{}.Update(userOid, &patchMap)
+		if utils.HttpError(c, 500, err) { return }
 	} else {
-		utils.HttpError(c, 400, errors.New("invalid patch"))
+		if utils.HttpError(c, 400, errors.New("invalid patch")) { return }
 	}
 
 }
 
 func (UserController) Delete(c *gin.Context) {
-	userId := c.Param("userId")
-	userOid, err := primitive.ObjectIDFromHex(userId)
-	utils.HttpError(c, 400, err)
+	userOid := GetUserID(c)
 
-	err = services.UserService{}.Delete(&userOid)
-	utils.HttpError(c, 500, err)
+	err := services.UserService{}.Delete(userOid)
+	if utils.HttpError(c, 500, err) { return }
 
 	c.JSON(200, err)
 }

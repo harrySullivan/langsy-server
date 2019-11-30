@@ -22,7 +22,7 @@ func (CourseService) FindAll() (*[]models.Course, error) {
 	cur, err := CourseService{}.Collection().Find(database.Context, bson.D{})
 	err = cur.All(database.Context, &courses)
 	
-	log.PanicOnError(err, "cannot find all courses in database")
+	log.NoticeOnError(err, "cannot find all courses in database")
 
 	return &courses, err
 
@@ -33,7 +33,7 @@ func (CourseService) FindById(courseId *primitive.ObjectID) (*models.Course, err
 	var course models.Course
 	err := CourseService{}.Collection().FindOne(database.Context, filter).Decode(&course)
 
-	log.PanicOnError(err, "cannot find course in database")
+	log.NoticeOnError(err, "cannot find course in database")
 
 	return &course, err
 }
@@ -41,7 +41,7 @@ func (CourseService) FindById(courseId *primitive.ObjectID) (*models.Course, err
 func (CourseService) Insert(course *models.Course) (*models.Course, error) {
 	response, err := CourseService{}.Collection().InsertOne(database.Context, course)
 
-	log.PanicOnError(err, "cannot insert course to database")
+	log.NoticeOnError(err, "cannot insert course to database")
 
 	id := response.InsertedID.(primitive.ObjectID)
 	course.ID = &id
@@ -49,16 +49,16 @@ func (CourseService) Insert(course *models.Course) (*models.Course, error) {
 }
 
 func (CourseService) Update(courseId *primitive.ObjectID, coursePatch *map[string]interface{}) (error) {
-	_, err := CourseService{}.Collection().UpdateOne(database.Context, bson.M{"_id": *courseId},
+	_, err := CourseService{}.Collection().UpdateOne(database.Context, bson.M{"_id": courseId},
 		*coursePatch)
 
-	log.PanicOnError(err, "cannot update course to database")
+	log.NoticeOnError(err, "cannot update course to database")
 
 	return err
 }
 
 func (CourseService) Delete(courseId *primitive.ObjectID) error {
 	_, err := CourseService{}.Collection().DeleteOne(database.Context, bson.M{"_id": courseId})
-	log.PanicOnError(err, "cannot delete course to database")
+	log.NoticeOnError(err, "cannot delete course to database")
 	return err
 }

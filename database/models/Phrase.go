@@ -8,7 +8,7 @@ const PHRASES = "Phrases"
 
 type Phrase struct {
 	ID             *primitive.ObjectID  `bson:"_id,omitempty"`
-	content        string               `json:"content" bson:"content"`
-	Souce          *primitive.ObjectID  `json:"source" bson:"source"`
+	Content        string               `json:"content" bson:"content"`
+	Lang           string               `json:"lang" bson:"lang"`
 }
 

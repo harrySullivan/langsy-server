@@ -1,15 +1,17 @@
 @host = http://localhost:8080
 ###
 
-GET {{host}}/users
-
-###
-
-
-GET {{host}}/users/5de1570b86dcb490614d5df1
+GET {{host}}/courses
 X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.t_LP_wZp9I6gmo6pLgrmJctgsiy9o5vgxbXk2zHe6h0
+
 ###
 
+
+# @name Random
+GET {{host}}/phrases/random/en
+X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.t_LP_wZp9I6gmo6pLgrmJctgsiy9o5vgxbXk2zHe6h0
+
+###
 
 PATCH {{host}}/courses/5dcad16b2e493cd969d8a1b3
 Content-Type: application/json
