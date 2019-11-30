@@ -82,12 +82,22 @@ func (PhraseController) InsertMany(phrases *[]interface{}) {
 
 func (PhraseController) Delete(c *gin.Context) {
 	phraseId := c.Param("phraseId")
-	phraseOid, err := primitive.ObjectIDFromHex(phraseId)
-	utils.HttpError(c, 400, err)
+	phraseOid, iErr := primitive.ObjectIDFromHex(phraseId)
+	if utils.HttpError(c, 400, iErr) { return }
 
-	err = services.PhraseService{}.Delete(&phraseOid)
-	utils.HttpError(c, 500, err)
+	phrase, fErr := services.PhraseService{}.FindById(&phraseOid)
+	if utils.HttpError(c, 500, fErr) { return }
 
-	c.JSON(200, err)
+	count, cErr := services.PhraseService{}.CountFromLanguage(phrase.Lang)
+	if utils.HttpError(c, 500, cErr) { return }
+
+	if count < 10 {
+		AddPhrasesAndSource(phrase.Lang, c)
+	}
+
+	dErr := services.PhraseService{}.Delete(&phraseOid)
+	if utils.HttpError(c, 500, dErr) { return }
+
+	c.JSON(200, "good")
 }
 

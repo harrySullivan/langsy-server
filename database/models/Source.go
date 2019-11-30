@@ -8,7 +8,7 @@ const SOURCES = "Sources"
 
 type Source struct {
 	ID             *primitive.ObjectID  `bson:"_id,omitempty"`
-	url            string               `json:"url" bson:"url"`
+	Url            string               `json:"url" bson:"url"`
 }
 
 type LangData struct {

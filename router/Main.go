@@ -54,6 +54,7 @@ func DeclareRoutes(engine *gin.Engine) {
 		phraseController := controllers.PhraseController{}
 		phrases.GET("", phraseController.List)
 		phrases.GET("/random/:lang", phraseController.GetRandom)
+		phrases.DELETE("/:phraseId", phraseController.Delete)
 	}
 
 	sources := engine.Group("/sources")

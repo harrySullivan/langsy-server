@@ -13,17 +13,6 @@ X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2Z
 
 ###
 
-PATCH {{host}}/courses/5dcad16b2e493cd969d8a1b3
-Content-Type: application/json
-
-{
-  "Set": {
-    "score": 35555
-  },
-  "Push": {
-    "logs": {
-      "timestamp": 3,
-      "attempts": 1
-    }
-  }
-}
+DELETE {{host}}/phrases/5de2e8db432c1c5241ba8c9d
+X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.t_LP_wZp9I6gmo6pLgrmJctgsiy9o5vgxbXk2zHe6h0
+###

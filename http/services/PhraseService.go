@@ -58,6 +58,15 @@ func (PhraseService) FindById(phraseId *primitive.ObjectID) (*models.Phrase, err
 	return &phrase, err
 }
 
+func (PhraseService) CountFromLanguage(lang string) (int64, error) {
+	filter := bson.M{"lang": lang}
+	count, err := PhraseService{}.Collection().CountDocuments(database.Context, filter, nil)
+
+	log.NoticeOnError(err, "cannot find phrase in database")
+
+	return count, err
+}
+
 func (PhraseService) Insert(phrase *models.Phrase) (*models.Phrase, error) {
 	response, err := PhraseService{}.Collection().InsertOne(database.Context, phrase)
 

@@ -194,22 +194,16 @@ func convStringsToPhrases(phraseStrs []string, lang string) *[]interface{} {
 	return &final
 }
 
-func (SourceController) Post(c *gin.Context) {
-	var req addSourceReq
-	err := c.Bind(&req)
-	if utils.HttpError(c, 400, err) { return }
-
-	lang := req.Language
-
+func AddPhrasesAndSource(lang string, c *gin.Context) error {
 	randomUrl, subdomain, domain := constructRandomUrl(lang)
 
 	redirectResp, rErr := httpGETNoRedirect(randomUrl)
-	if utils.HttpError(c, 500, rErr) { return }
+	utils.HttpError(c, 500, rErr)
 
 	redirectLocation := redirectResp["Location"][0]
 
 	redirectUrl, pErr := url.Parse(redirectLocation)
-	if utils.HttpError(c, 500, pErr) { return }
+	utils.HttpError(c, 500, pErr)
 
 	articleTitle := strings.Replace(redirectUrl.Path, "/wiki/", "", 1)
 
@@ -219,5 +213,23 @@ func (SourceController) Post(c *gin.Context) {
 
 	PhraseController{}.InsertMany(phrases)
 
-	c.JSON(200, phrases)
+	source := models.Source {
+		Url: articleTitle,
+	}
+
+	_, err := services.SourceService{}.Insert(&source)
+	return err
+}
+
+func (SourceController) Post(c *gin.Context) {
+	var req addSourceReq
+	err := c.Bind(&req)
+	if utils.HttpError(c, 400, err) { return }
+
+	lang := req.Language
+
+	err = AddPhrasesAndSource(lang, c)
+	if utils.HttpError(c, 500, err) { return }
+
+	c.JSON(200, "done")
 }

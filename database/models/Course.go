@@ -13,6 +13,7 @@ type Course struct {
 	NextReward     int                  `json:"nextreward" bson:"nextreward"`
 	Score          int                  `json:"score" bson:"score"`
 	Logs           []CourseLog          `json:"logs" bson:"logs"`
+	Completed      bool                 `json:"completed" bson:"completed"`
 }
 
 type CoursePatch struct {
@@ -21,7 +22,7 @@ type CoursePatch struct {
 }
 
 var CoursePatchSchema = map[string][]string {
-	"$set": {"nextreward", "score"},
+	"$set": {"nextreward", "score", "completed"},
 	"$push": {"logs"},
 }
 
