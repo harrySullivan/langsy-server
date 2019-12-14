@@ -2,7 +2,7 @@ package main
 
 import (
     "App/database"
-    "App/http/controllers"
+    "App/http/processes"
     "App/init/Config"
     "App/init/Logger"
     "App/router"
@@ -16,7 +16,7 @@ func init() {
     Config.Load()
     Logger.Load()
     database.NewConnection(os.Getenv("DATABASE_URL"))
-    controllers.PreloadLangData()
+    processes.PreloadLangData()
 }
 
 func main() {

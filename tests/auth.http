@@ -6,7 +6,7 @@ Content-Type: application/json
 
 {
   "Avatar": "sampleavatarurl",
-  "Username": "bobisgreat",
+  "Username": "bobisdgreat",
   "Password": "bobisawesome",
   "Courses": ["5dcad16b2e493cd969d8a1b3"],
   "Level": 3

@@ -1,26 +1,3 @@
-// import (
-// 	"encoding/xml"
-// 	"fmt"
-// )
-
-// type div struct {
-// 	XMLName  xml.Name `xml:"div"`
-// 	PList []p `xml:"p"`
-// }
-
-// type p struct {
-// 	Text string `xml:",chardata"`
-// }
-
-// func main() {
-// 	d := div{}
-// 	err := xml.Unmarshal(xmlContent, &d)
-// 	if err != nil {
-// 		fmt.Println(err)
-// 	}
-// 	fmt.Println(d)
-// }
-
 package controllers
 
 import (
