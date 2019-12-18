@@ -1,4 +1,4 @@
-@host = http://localhost:8080
+@host = https://langsy-server.herokuapp.com
 ###
 
 GET {{host}}/courses
@@ -8,8 +8,8 @@ X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2Z
 
 
 # @name Random
-GET {{host}}/phrases/random/en
-X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.t_LP_wZp9I6gmo6pLgrmJctgsiy9o5vgxbXk2zHe6h0
+GET {{host}}/phrases/random/ar
+X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.Xy4p8cdhRzr_X4uGp9ei9K0-zS9kxY1BSjU4U4OVNXg
 
 ###
 

@@ -37,7 +37,7 @@ func FindLangData(lang string) *models.LangData {
 }
 
 func RandomDomain() string {
-	domains := []string{"wikipedia", "wikinews"}
+	domains := []string{"wikipedia"}
 	rand.Seed(time.Now().UnixNano())
 	return domains[rand.Intn(len(domains))]
 }
@@ -99,6 +99,10 @@ func selectionToPhrases(s *goquery.Selection) ([]string, string) {
 	return chunks, noNewLine
 }
 
+func ConstructArticleUrl(subdomain string, domain string, page string) string {
+	return fmt.Sprintf("https://%s.%s.org/w/api.php?action=parse&format=json&page=%s", subdomain, domain, page)
+}
+
 type parsedPage struct {
 	Parse parseResut `json:"parse"`
 }
@@ -111,9 +115,8 @@ type textResult struct {
 	All string `json:"*"`
 }
 
-func GetPhrasesFromPage(subdomain string, domain string, page string) []string {
-	url := fmt.Sprintf("https://%s.%s.org/w/api.php?action=parse&format=json&page=%s", subdomain, domain, page)
-	body := httpGet(url)
+func GetPhrasesFromPage(pageUrl string) ([]string) {
+	body := httpGet(pageUrl)
 	var parsed parsedPage
 	json.Unmarshal(body, &parsed)
 
@@ -135,4 +138,19 @@ func GetPhrasesFromPage(subdomain string, domain string, page string) []string {
 	})
 
 	return phrases
+}
+
+func GetTranslationLocation(subdomain string, domain string, page string) (string, bool) {
+	pageUrl := fmt.Sprintf("https://%s.%s.org/wiki/%s", subdomain, domain, page)
+	body := httpGet(pageUrl)
+	
+	doc, err := goquery.NewDocumentFromReader(strings.NewReader(string(body)))
+	log.NoticeOnError(err, "Can't parse")
+
+	translationUrl, exists := doc.Find("li.interlanguage-link.interwiki-en a[lang=en]").Attr("href")
+	if !exists {
+		fmt.Println("No translatin exits for ", pageUrl)
+	}
+
+	return translationUrl, exists
 }
