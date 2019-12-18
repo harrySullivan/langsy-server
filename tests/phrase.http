@@ -14,7 +14,7 @@ X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2Z
 ###
 
 # @name TranslateAPI
-GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ru&dt=t&q=how%20are%20you
+GET https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20191218T231531Z.5ba725d98c6e8cdc.09fa6069579b6c4324f33f569e38e7be41454586&text=sleep&lang=en-ar
 
 ###
 
