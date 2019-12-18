@@ -13,6 +13,11 @@ X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2Z
 
 ###
 
+# @name TranslateAPI
+GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ru&dt=t&q=how%20are%20you
+
+###
+
 DELETE {{host}}/phrases/5de2e8db432c1c5241ba8c9d
 X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.t_LP_wZp9I6gmo6pLgrmJctgsiy9o5vgxbXk2zHe6h0
 ###
