@@ -18,6 +18,11 @@ GET https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.201912
 
 ###
 
+# @name SpeechAPI
+GET https://translate.google.com.vn/translate_tts?ie=UTF-8&q=how+are+you&tl=en&client=tw-ob
+
+### github.com/mozillazg/go-unidecode
+
 DELETE {{host}}/phrases/5de2e8db432c1c5241ba8c9d
 X-Auth-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1ZGUxNTcwYjg2ZGNiNDkwNjE0ZDVkZjEifQ.t_LP_wZp9I6gmo6pLgrmJctgsiy9o5vgxbXk2zHe6h0
 ###
