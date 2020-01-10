@@ -1,0 +1,910 @@
+	ar
+Do you want to go to the movies?	هل تريد أن تذهب إلى السينما؟
+Have you seen this movie?	هل رأيت هذا الفيلم؟
+He said you like to watch movies.	وقال كنت ترغب في مشاهدة الأفلام.
+How tall are you?	كم طولك؟
+Is the bank far?	هو الآن البنك؟
+Is there a movie theater nearby?	هل هناك مسرح في مكان قريب؟
+What do people usually do in the summer in Los Angeles?	ماذا يفعل الناس عادة في فصل الصيف في لوس انجليس؟
+What kind of music do you like?	أي نوع من الموسيقى تفضل؟
+What's your favorite food?	ما هو طعامك المفضل؟
+What time does the movie start?	متى يبدأ الفلم؟
+Who was your teacher?	الذي كان معلمك؟
+Would you like to have dinner with me?	هل تحب أن تتناول العشاء معي؟
+Would you like to rent a movie?	هل ترغب في استئجار الفيلم؟
+Can I see your passport please?	يمكنني رؤية جواز سفرك من فضلك؟
+Can I take a message?	هل يمكنني اخذ رسالة؟
+Can I try it on?	هل يمكنني تجربتها؟
+Can we sit over there?	يمكن أن نجلس هناك؟
+Did you come with your family?	أتيت مع عائلتك؟
+Do you think it's possible?	هل تعتقد أنه من الممكن؟
+Here's my number.	هذا رقمي.
+He's not in right now.	انه ليس في الوقت الحالي.
+"Hi, is Mrs. Smith there, please?"	مرحبا، والسيدة سميث هناك، من فضلك؟
+"I'd like some water too, please."	أريد بعض الماء أيضا، من فضلك.
+"I'd like to buy a bottle of water, please."	أود أن شراء زجاجة من الماء، من فضلك.
+I'd like to buy something.	أود أن شراء شيء ما.
+I'd like to go to the store.	أود أن تذهب إلى المتجر.
+I'd like to rent a car.	كنت ترغب في استئجار سيارة.
+I'd like to send a fax.	كنت ترغب في إرسال الفاكس.
+I'd like to send this to America.	كنت ترغب في إرسال هذا إلى أمريكا.
+I'd like to speak to Mr. Smith please.	أود التحدث إلى السيد سميث من فضلك.
+"I have three children, two girls and one boy."	لدي ثلاثة أطفال، بنتين وولد واحد.
+I'll be right back.	سأعود حالا.
+I'll call back later.	سوف أعاود الاتصال بك لاحقا.
+I'll call you on Friday.	سأتصل بك غدا الجمعة.
+I'll teach you.	سوف اعلمك.
+I'm ok.	أنا بخير.
+I need some tissues.	انا بحاجة الى بعض الأنسجة.
+Is there an English speaking guide?	هل هناك دليل على التحدث باللغة الإنجليزية؟
+I want to give you a gift.	انا اريد ان اعطيك هدية.
+Male or female?	ذكر أم أنثى؟
+My cell phone doesn't have good reception.	لم يقم هاتفي الخلوي حسن الاستقبال.
+My cell phone doesn't work.	لا يعمل هاتفي الخلوي.
+Please take off your shoes.	من فضلك اخلع حذاءك.
+"Sorry, I think I have the wrong number."	عذرا، أعتقد أن لدينا عددا خاطئا.
+What is the area code?	ما هو رمز المنطقة؟
+What's the name of the company you work for?	ما هو اسم الشركة التي تعمل ل؟
+What's wrong?	ماالخطب؟
+What's your address?	ماهو عنوانك؟
+Where can I find a hospital?	أين يمكنني العثور على المستشفى؟
+Where's the closest restaurant?	أين أقرب مطعم؟
+Where's the pharmacy?	أين الصيدلية؟
+Who are you?	من أنت؟
+Who is that?	من ذاك؟
+Who would you like to speak to?	من الذي تود أن تتحدث إليه؟
+Will you take me home?	سوف يأخذني المنزل؟
+Would you like water or milk?	هل ترغب الماء أو الحليب؟
+Be careful.	كن حذرا.
+Be careful driving.	كن حذر وقت القيادة.
+Can you translate this for me?	يمكنك ترجمة هذا بالنسبة لي؟
+Chicago is very different from Boston.	شيكاغو هي مختلفة جدا من بوسطن.
+Don't worry.	لا تقلق.
+Everyone knows it.	الجميع يعرف ذلك.
+Everything is ready.	كل شيء جاهز.
+Excellent.	ممتاز.
+From time to time.	من وقت لآخر.
+Good idea.	فكره جيده.
+He likes it very much.	إنه يحب ذلك كثيرا.
+Help!	مساعدة!
+He's coming soon.	انه قادم قريبا.
+He's right.	كان على حق.
+He's very annoying.	انه أمر مزعج جدا.
+He's very famous.	انه مشهور جدا.
+How are you?	كيف حالكم؟
+How's work going?	كيف يجري العمل؟
+Hurry!	عجل!
+I ate already.	أكلت بالفعل.
+I can't hear you.	لا أستطيع أن أسمعك.
+I'd like to go for a walk.	أود أن تذهب في نزهة على الأقدام.
+I don't know how to use it.	أنا لا أعرف كيفية استخدامها.
+I don't like him.	أنا لا أحبه.
+I don't like it.	أنا لا أحب ذلك.
+I don't speak very well.	أنا لا أتكلم بشكل جيد للغاية.
+I don't understand.	أنا لا أفهم.
+I don't want it.	أنا لا أريد ذلك.
+I don't want that.	أنا لا أريد ذلك.
+I don't want to bother you.	أنا لا أريد أن أزعجك.
+I feel good.	أنا أشعر بأني بخير.
+"If you need my help, please let me know."	إذا كنت بحاجة إلى مساعدة بلدي، واسمحوا لي أن أعرف.
+I get off of work at 6.	أحصل على الخروج من العمل في 6.
+I have a headache.	عندي صداع.
+I hope you and your wife have a nice trip.	أتمنى لك ولزوجتك لديها رحلة لطيفة.
+I know.	أنا أعلم.
+I like her.	انا معجب بها.
+I'll call you when I leave.	سأتصل بك عندما أغادر.
+I'll come back later.	انا سوف اعود لاحقا.
+I'll pay.	سأدفع.
+I'll take it.	أنا سأخذه.
+I'll take you to the bus stop.	سوف يأخذك إلى محطة للحافلات.
+I lost my watch.	لقد فقدت ساعتي.
+I love you.	أحبك.
+I'm an American.	انا امريكي.
+I'm cleaning my room.	انا انظف غرفتي.
+I'm cold.	أنا بردان.
+I'm coming to pick you up.	أنا قادم لاصطحابك.
+I'm going to leave.	انا ذاهب الى مغادرة البلاد.
+"I'm good, and you?"	انا بخير وأنت؟
+I'm happy.	أنا سعيد.
+I'm hungry.	إنني جائع أنا جوعان.
+I'm married.	انا متزوج.
+I'm not busy.	انا لست مشغول.
+I'm not married.	لست متزوجا.
+I'm not ready yet.	أنا لست مستعدة بعد.
+I'm not sure.	لست متأكدا.
+"I'm sorry, we're sold out."	أنا آسف، نحن بيعت.
+I'm thirsty.	عطشان.
+I'm very busy. I don't have time now.	أنا مشغول جدا. ليس لدي وقت الآن.
+I need to change clothes.	ولست بحاجة لتغيير الملابس.
+I need to go home.	أنا أحتاج أن أذهب للمنزل.
+I only want a snack.	أريد فقط تناول وجبة خفيفة.
+Is Mr. Smith an American?	هو السيد سميث أمريكي؟
+Is that enough?	هل هذا كاف؟
+I think it's very good.	اعتقد انها جيدة جدا.
+I think it tastes good.	أعتقد أنه الأذواق جيدة.
+I thought the clothes were cheaper.	اعتقدت الملابس أرخص.
+It's longer than 2 miles.	إنها أطول من 2 ميل.
+I've been here for two days.	لقد كنت هنا لمدة يومين.
+I've heard Texas is a beautiful place.	لقد سمعت ولاية تكساس هو مكان جميل.
+I've never seen that before.	أنا لم أر قط من قبل.
+I was about to leave the restaurant when my friends arrived.	كنت على وشك مغادرة المطعم عندما وصل أصدقائي.
+Just a little.	قليلا فقط.
+Just a moment.	لحظة واحدة.
+Let me check.	دعني أتحقق.
+Let me think about it.	دعني افكر به.
+Let's go have a look.	دعونا نذهب لإلقاء نظرة.
+Let's practice English.	ممارسة دعونا الإنجليزية.
+May I speak to Mrs. Smith please?	هل لي أن أتحدث إلى السيدة سميث من فضلك؟
+More than that.	أكثر من ذلك.
+Never mind.	لا يهم.
+Next time.	المره القادمة.
+No.	لا.
+Nonsense.	كلام فارغ.
+"No, thank you."	لا، شكرا.
+Nothing else.	لا شيء آخر.
+Not recently.	ليس مؤخرا.
+Not yet.	ليس بعد.
+Of course.	بالطبع بكل تأكيد.
+Okay.	حسنا.
+Please fill out this form.	يرجى ملء هذا النموذج.
+Please take me to this address.	يرجى يأخذني إلى هذا العنوان.
+Please write it down.	يرجى الكتابة إلى أسفل.
+Really?	هل حقا؟
+Right here.	هنا.
+Right there.	هناك مباشرة.
+See you later.	أراك لاحقا.
+See you tomorrow.	أراك غدا.
+See you tonight.	اراك الليلة.
+She's pretty.	انها جميلة.
+Sorry to bother you.	آسف لإزعاجك.
+Stop!	قف!
+Take a chance.	خذ فرصة.
+Take it outside.	خذه إلى الخارج.
+Tell me.	أخبرنى.
+Thanks for everything.	شكرا على كل شيء.
+Thanks for your help.	شكرا لمساعدتك.
+Thank you.	شكرا لكم.
+Thank you miss.	شكرا انسة.
+Thank you sir.	شكرا لك سيدي.
+Thank you very much.	شكرا جزيلا.
+That looks great.	هذا يبدو عظيما.
+That's alright.	لا بأس.
+That's enough.	هذا يكفي.
+That's fine.	هذا جيد.
+That's it.	هذا هو.
+That smells bad.	أن رائحة سيئة.
+That's not fair.	هذا ليس عدلا.
+That's not right.	هذا غير صحيح.
+That's right.	صحيح.
+That's too bad.	وهذا أمر سيئ للغاية.
+That's too many.	هذا كثير جدا.
+That's too much.	هذا كثير جدا.
+The book is under the table.	هذا الكتاب هو تحت الطاولة.
+They'll be right back.	أنها سوف تكون حق العودة.
+They're the same.	انهم نفس الشيء.
+They're very busy.	أنهم مشغولون جدا.
+This doesn't work.	هذا لا يعمل.
+This is very difficult.	هذا أمر صعب جدا.
+This is very important.	هذا مهم جدا.
+Try it.	جربها.
+"Very good, thanks."	جيد جدا، شكرا.
+We like it very much.	نحن أحب ذلك كثيرا جدا.
+Would you take a message please?	هل تأخذ رسالة من فضلك؟
+"Yes, really."	نعم حقا.
+You're beautiful.	أنت جميلة.
+You're very nice.	أنت لطيف جدا.
+You're very smart.	انت ذكي جدا.
+Your things are all here.	الأشياء الخاصة بك كلها هنا.
+Are you busy?	هل انت مشغول؟
+Can we have some more bread please?	يمكن لدينا بعض الخبز أكثر من فضلك؟
+Do you have any money?	هل معك اى نقود؟
+For how many nights?	لكم ليلة؟
+How long will you be staying?	كم من الوقت سوف تبقى؟
+I'd like a map of the city.	أود خريطة للمدينة.
+I'd like a non-smoking room.	أود الحصول على غرفة التدخين غير.
+I'd like a room.	أود الحصول على غرفة.
+I'd like a room with two beds please.	أود الحصول على غرفة بسريرين من فضلك.
+I need a doctor.	أحتاج إلى طبيب.
+Is there a nightclub in town?	هناك ملهى ليلي في المدينة؟
+Is there a restaurant in the hotel?	هل هناك مطعم في الفندق؟
+Is there a store near here?	هل يوجد محل قريب من هنا؟
+"Sorry, we don't have any vacancies."	عذرا، ليس لدينا أي وظيفة شاغرة.
+Take me to the Marriott Hotel.	يأخذني إلى فندق ماريوت.
+What's the charge per night? (Hotel)	ما هي التهمة في الليل؟ (الفندق)
+What time is check out?	ما هو الوقت تحقق من؟
+Where is the airport?	أين هو المطار؟
+Where's the mail box?	أين هو صندوق بريد؟
+Come here.	تعال الى هنا.
+Does it often snow in the winter in Massachusetts?	هل غالبا ما الثلوج في فصل الشتاء في ولاية ماساشوستس؟
+Do you think it'll rain today?	هل تعتقد أنه سوف المطر اليوم؟
+Do you think it's going to rain tomorrow?	هل تعتقد انها سوف المطر غدا؟
+How's business?	كيف هو العمل؟
+Is it close?	هل هو إغلاق؟
+Is it possible?	هل هو ممكن؟
+Is it ready?	هل هو جاهز؟
+It costs 20 dollars per hour.	يكلف 20 دولار للساعة الواحدة.
+It hurts here.	انها تؤلمني هنا.
+It's far from here.	انها بعيدة عن هنا.
+It's going to be hot today.	انها سوف تكون ساخنة اليوم.
+It's north of here.	انها الشمالي من هنا.
+It's over there.	انها هناك.
+It's raining.	انها تمطر.
+It's too late.	فوات الاوان.
+It's very important.	انه مهم جدا.
+It will arrive shortly.	وسوف تصل قريبا.
+The roads are slippery.	الطرق هي الزلقة.
+What's the room rate?	ما هو سعر الغرفة؟
+What will the weather be like tomorrow?	كيف سيكون الطقس غدا؟
+Are you allergic to anything?	هل لديك حساسية ضد أي شيء؟
+Are you ready?	هل أنت جاهز؟
+Call me.	كلمني.
+Did you send me flowers?	هل ترسل لي الزهور؟
+Do you sell batteries?	هل بيع البطاريات؟
+I don't care.	لا يهمني.
+I give up.	أستسلم.
+I got in an accident.	حصلت في حادث.
+I have a cold.	لدي رشح.
+I have one in my car.	لدي واحدة في سيارتي.
+I made this cake.	أنا جعلت هذه الكعكة.
+I'm a teacher.	انا مدرس.
+I'm self-employed.	أنا لحسابهم الخاص.
+I still have a lot to do.	لا يزال لدي الكثير لتفعله.
+I still haven't decided.	ما زلت لم يحدد بعد.
+It depends on the weather.	ذلك يعتمد على الطقس.
+It's very cold today.	يوم بارد للغاية.
+My luggage is missing.	حقائبي مفقود.
+My stomach hurts.	معدتي تؤلمني.
+My throat is sore.	حلقي هو التهاب.
+My watch has been stolen.	قد سرقت ساعتي.
+Take this medicine.	خذ هذا الدواء.
+The accident happened at the intersection.	ووقع الحادث عند تقاطع.
+There has been a car accident.	كان هناك حادث سيارة.
+Where can I exchange U.S. dollars?	أين يمكنني تبادل دولار امريكي؟
+Where do you work?	أين تعمل؟
+Where's the nearest hospital?	أين أقرب مستشفى؟
+Where's the post office?	اين مكتب البريد؟
+Across from the post office.	على الجانب الآخر من مكتب البريد.
+At 3 o'clock.	في 03:00.
+Be quiet.	كن هادئا.
+Can you recommend a good restaurant?	هل تستطيع أن تقترح اسم مطعم جيد؟
+Here it is.	ها هو.
+Here you are.	ها انت.
+He's in the kitchen.	انه في المطبخ.
+He studies at Boston University.	يدرس في جامعة بوسطن.
+How far is it?	كم يبعد؟
+How far is it to Chicago?	إلى أي مدى هو عليه الى شيكاغو؟
+How many miles is it to Pennsylvania?	كم ميلا هل إلى ولاية بنسلفانيا؟
+I'd like a single room.	أريد غرفة لشخص واحد.
+I like to watch TV.	احب مشاهدة التلفاز.
+It's delicious!	أنها لذيذة!
+It's half past 11.	انها نصف الماضي 11.
+It's less than 5 dollars.	كان أقل من 5 دولارات.
+It's more than 5 dollars.	إنها أكثر من 5 دولارات.
+It's near the Supermarket.	انها بالقرب من سوبر ماركت.
+it's not suppose to rain today.	انها ليست من المفترض أن المطر اليوم.
+It's ok.	حسنا.
+It's on 7th street.	كان على 7th الشارع.
+It's really hot.	انها حقا الساخنة.
+It's suppose to rain tomorrow.	نفترض أن المطر غدا.
+I was going to the library.	كنت ذاهبا إلى المكتبة.
+I was in the library.	كنت في المكتبة.
+Let's go.	لنذهب.
+Maybe.	يمكن.
+More than 200 miles.	أكثر من 200 ميل.
+My house is close to the bank.	بيتي قريب من البنك.
+Near the bank.	بالقرب من البنك.
+On the left.	على اليسار.
+On the right.	على اليمين.
+On the second floor.	في الطابق الثاني.
+Outside the hotel.	خارج الفندق.
+Over here.	هنا.
+Over there.	هناك.
+The book is behind the table.	هذا الكتاب هو وراء طاولة المفاوضات.
+The book is in front of the table.	يقع الكتاب في مقدمة الجدول.
+The book is near the table.	هذا الكتاب هو بالقرب من الجدول.
+The book is next to the table.	هذا الكتاب هو القادم الى طاولة المفاوضات.
+The book is on top of the table.	الكتاب هو على رأس الطاولة.
+There are some books on the table.	هناك بعض الكتب على الطاولة.
+There's a book under the table.	هناك كتاب تحت الطاولة.
+We're from California.	نحن من ولاية كاليفورنيا.
+What's the address?	ما هو العنوان؟
+Where are you going?	إلى أين تذهب؟
+Where is it?	أين هي؟
+Where would you like to go?	أين تريد أن تذهب؟
+Who won?	الذي فاز؟
+Are you American?	هل أنت أمريكي؟
+Are you coming this evening?	هل أنت قادم هذا المساء؟
+Are you free tonight?	هل انت حر الليلة؟
+Are you going to take a plane or train?	انت ذاهب لتأخذ الطائرة أو القطار؟
+Are you hungry?	هل انت جوعان؟
+Are you sure?	هل أنت واثق؟
+Are you working Tomorrow?	هل لديك عمل غدا؟
+Business is good.	العمل جيد.
+Cheers!	في صحتك!
+Did it snow yesterday?	فعلت الثلوج أمس؟
+Did you get my email?	هل وصلتك رسالتي في الايميل؟
+Did you take your medicine?	هل تناول الدواء؟
+Do you feel better?	هل تشعر بتحسن؟
+Do you go to Florida often?	هل تذهب إلى ولاية فلوريدا في كثير من الأحيان؟
+Do you have another one?	هل لديك واحد اخر؟
+Do you know where there's a store that sells towels?	هل تعرف أين يوجد متجر لبيع المناشف؟
+Do you like it here?	هل ترغب في ذلك هنا؟
+Do you like the book?	هل تحب الكتاب؟
+Do you need anything?	هل تحتاج لأي شيء؟
+Do you play any sports?	هل تلعب اي رياضة؟
+Do you sell medicine? (store)	هل تبيع الدواء؟ (متجر)
+Do you study English?	هل تدرس الإنجليزية؟
+Do you want to come with me?	هل تريد أن تأتي معي؟
+Do you want to go with me?	هل تريد الذهاب معي؟
+Excuse me.	عفوا.
+Give me a call.	اتصل بي.
+Has your brother been to California?	وقد تم أخيك إلى ولاية كاليفورنيا؟
+Have they met her yet?	هل لديك التقيا لها حتى الآن؟
+Have you done this before?	هل فعلت هذا من قبل؟
+How long have you been here?	منذ متى وأنت هنا؟
+How long have you been in America?	كم مكثت في أمريكا؟
+How long have you lived here?	منذ متى وأنت تعيش هنا؟
+How many children do you have?	كم طفلا لديك؟
+How many languages do you speak?	كم لغة تتحدث؟
+How many people do you have in your family?	كم من الناس هل لديك في عائلتك؟
+How much would you like?	كم تريد؟
+How old are you?	كم عمرك؟
+I bought a shirt yesterday.	قمت بشراء قميص امس.
+I don't feel well.	لا أشعر أني على ما يرام.
+I have pain in my arm.	لدي ألم في ذراعي.
+I have to wash my clothes.	لقد لغسل ملابسي.
+I have two sisters.	لدي أختان.
+I'll tell him you called.	انا اقول له قمت بالاتصال به.
+I'm 32.	أنا 32.
+"I'm 6'2""."	"أنا 6'2 ""."
+I'm allergic to seafood.	عندي حساسية من المأكولات البحرية.
+I'm American.	انا امريكي.
+I'm a size 8.	أنا حجم 8.
+"I'm fine, and you?"	جيد وأنت؟
+I'm not afraid.	انا لست خائفا.
+I'm sick.	انا مريض.
+I remember.	انا اتذكر.
+I speak a little English.	أنا أتحدث قليلا من الانكليزية.
+Is your house like this one?	هل بيتك مثل هذا واحد؟
+Is your husband also from Boston?	هو زوجك أيضا من بوسطن؟
+It's not very expensive.	انها ليست مكلفة للغاية.
+I've been there.	لقد كنت هناك.
+Let's share.	دعنا نتشارك.
+My daughter is here.	ابنتي هنا.
+My father has been there.	كان والدي هناك.
+My father is a lawyer.	والدي هو محام.
+My grandmother passed away last year.	مرت جدتي بعيدا العام الماضي.
+My name is John Smith.	اسمي جون سميث.
+My son.	ابني.
+My son studies computers.	ابني يدرس أجهزة الكمبيوتر.
+"No, I'm American."	لا أنا أمريكي.
+"No, this is the first time."	كلا هذه هى اول مره.
+Our children are in America.	أطفالنا في أمريكا.
+She's an expert.	انها خبير.
+She's older than me.	انها أكبر مني.
+That car is similar to my car.	تلك السيارة مماثلة لسيارتي.
+This is Mrs. Smith.	هذا هو السيدة سميث.
+This is my mother.	هذه امي.
+This is the first time I've been here.	هذه هي المرة الأولى التي قضيتها هنا.
+We have two boys and one girl.	لدينا اثنين من الصبية وفتاة واحدة.
+What are you going to do tonight?	مالذي ستفعله الليلة؟
+What are your hobbies?	ما هي هواياتك؟
+What do you study?	ماذا تدرس؟
+What do you want to do?	ماذا تريد أن تفعل؟
+What school did you go to?	ما هي المدرسة ذهبت إليه؟
+What's your favorite movie?	ما هو فيلمك المفضل؟
+What's your last name?	ماهو إسم عائلتك؟
+What's your name?	ما هو اسمك؟
+Where are the t-shirts?	أين تي شيرت؟
+Where did you go?	أين ذهبت؟
+Where did you learn English?	أين تعلمت الإنجليزية؟
+Where did you work before you worked here?	أين كنت تعمل قبل أن تعمل هنا؟
+Where do you live?	أين تعيش؟
+Where were you?	أين كنت؟
+Who sent this letter?	الذي أرسل هذه الرسالة؟
+Would you like to buy this?	هل ترغب في شراء هذا؟
+Your children are very well behaved.	وتصرفت بشكل جيد جدا أطفالك.
+Your daughter.	ابنتك.
+You're smarter than him.	كنت أكثر ذكاء منه.
+You speak English very well.	انت تتكلم الانجليزية بشكل جيد.
+About 300 kilometers.	حوالي 300 كيلومترا.
+A one way ticket.	تذكرة ذهاب.
+Are you going to help her?	أنت ذاهب لمساعدتها؟
+A round trip ticket.	تذكرة ذهاب وإياب.
+At what time?	في أي وقت؟
+Can I make an appointment for next Wednesday?	يمكنني تحديد موعد ليوم الاربعاء القادم؟
+Can you repeat that please?	أعد ذلك من فضلك؟
+Does this road go to New York?	هل يذهب هذا الطريق الى نيويورك؟
+Do you have enough money?	هل لديك مال كفاية؟
+Do you know how to cook?	هل تعلم كيف تطبخ؟
+Do you know what this says?	هل تعلمون ماذا يقول هذا؟
+Do you want me to come and pick you up?	هل تريد مني أن يأتي ويقلك؟
+Follow me.	اتبعني.
+From here to there.	من هنا إلى هناك.
+Go straight ahead.	اتجه للأمام مباشرة.
+Have you arrived?	هل وصلت؟
+Have you been to Boston?	هل زرت بوسطن؟
+How do I get there?	كيف أصل إلى هناك؟
+How do I get to Daniel Street?	كيف أحصل على شارع دانيال؟
+How do I get to the American Embassy?	كيف أحصل على السفارة الأمريكية؟
+How long does it take by car?	كم من الوقت يستغرق بالسيارة؟
+How long does it take to get to Georgia?	كم من الوقت يستغرق للوصول الى جورجيا؟
+How long is the flight?	كم تستغرق رحلة الطيران؟
+How was the movie?	كيف كان الفيلم؟
+I'd like to make a phone call.	أود أن إجراء مكالمة هاتفية.
+I'd like to make a reservation.	اود ان احجز.
+I have a question I want to ask you./ I want to ask you a question.	لدي سؤال أريد أن أسأل you./ أريد أن أسألك سؤالا.
+I'll take that one also.	سآخذ أن واحدا أيضا.
+I'm coming right now.	أنا قادم الآن.
+I'm going home in four days.	أنا ذاهب إلى الوطن في أربعة أيام.
+I'm leaving Tomorrow.	سأرحل غدا.
+I'm looking for the post office.	أنا أبحث عن مكتب البريد.
+Is this pen yours?	هل هذا القلم لك؟
+I wish I had one.	كنت أتمنى لو كان واحد.
+One ticket to New York please.	تذكرة واحدة إلى نيويورك الرجاء.
+One way or round trip?	طريقة واحدة أو ذهابا وإيابا؟
+Please speak slower.	لطفا تحدث بشكل أبطأ.
+Please take me to the airport.	يرجى يأخذني إلى المطار.
+That way.	من ذلك الطريق.
+The plane departs at 5:30P.	تغادر الطائرة في 5: 30P.
+They arrived yesterday.	وصلوا أمس.
+Turn around.	التف حوله.
+Turn left.	انعطف لليسار.
+Turn right.	انعطف يمينا.
+What time are you going to the bus station?	وقت ما أنت ذاهب إلى محطة الحافلات؟
+When did this happen?	متى حصل هذا؟
+When did you arrive in Boston?	متى يصل في بوسطن؟
+When does he arrive?	متى كان يصل؟
+When does it arrive?	عندما لا تصل؟
+When does the bank open?	متى يفتح البنك؟
+When does the bus leave?	عندما تغادر الحافلة؟
+When do we arrive?	متى نصل؟
+When do we leave?	متى نغادر؟
+Where can I mail this?	أين يمكنني البريد هذا؟
+Where is she from?	من اين هي؟
+Where is the bathroom?	أين هو الحمام؟
+Why not?	لما لا؟
+Will you remind me?	سوف أذكر لي؟
+Amy is John's girlfriend.	ايمي هي صديقة جون.
+He always does that for me.	كان دائما يفعل ذلك بالنسبة لي.
+He broke the window.	ان اخترق النافذة.
+He doesn't look like a nurse.	وقال انه لا تبدو وكأنها ممرضة.
+He has a nice car.	لديه سيارة لطيفة.
+He never gives me anything.	وقال انه لم يعطيني أي شيء.
+He said this is a nice place.	وقال ان هذا هو المكان الجميل.
+He's an American.	انه اميركي.
+He's a very good student.	انه طالب جيد جدا.
+He's faster than me.	وأسرع مني.
+He thinks we don't want to go.	وهو يعتقد أننا لا نريد أن يذهب.
+His room is very small.	غرفته صغيرة جدا.
+His son.	ابنه.
+How are your parents?	كيف حال والديك؟
+How do I use this?	كيف يمكنني استخدام هذا؟
+I came with my family.	جئت مع عائلتي.
+I'd like to exchange this for Dollars.	أود أن تبادل هذا للدولار.
+I'd like to use the internet	أود أن استخدام الإنترنت
+I don't have time right now.	ليس لدي وقت الآن.
+I don't know.	انا لا اعرف.
+I have money.	لدي نقود.
+I haven't had lunch yet.	لم تتح لي طعام الغداء بعد.
+I have to go to the post office.	ولا بد لي من الذهاب إلى مكتب البريد.
+I like Italian food.	أحب الطعام الإيطالي.
+I live in California.	أنا أعيش في كاليفورنيا.
+I'll talk to you soon.	سأكلمك قريبا.
+I made a mistake.	لقد ارتكبت خطأ.
+I'm bored.	اشعر باللملل.
+I'm going to America next year.	أنا ذاهب إلى أمريكا العام المقبل.
+I'm going to go have dinner.	انا ذاهب للذهاب لتناول العشاء.
+I'm tired.	أنا مجهد.
+"I'm very well, thank you."	أنا بخير، أشكرك.
+I need another key.	أحتاج مفتاح آخر.
+I need this to get there by tomorrow.	أنا في حاجة الى ذلك للوصول إلى هناك بحلول يوم غد.
+I need to go now.	أحتاج أن أذهب الآن.
+Is it suppose to rain tomorrow?	هل من المفترض أن المطر غدا؟
+Is John there please? (phone call)	هو جون هناك من فضلك؟ (مكالمة هاتفية)
+Is this a safe area?	هذا هو منطقة آمنة؟
+Is this Mr. Smith?	هل هذا السيد سميث؟
+Is this the bus to New York?	هل هذا هو الباص الى نيويورك؟
+Is this your book?	هل هذا كتابك؟
+I still have to brush my teeth and take a shower.	لا يزال لدي لتنظيف أسناني والاستحمام.
+Is your father home?	هو منزل والدك؟
+I think so.	أعتقد.
+I think those shoes are very good looking.	وأعتقد أن تلك الأحذية تبدو جيدة جدا.
+It's very windy.	الرياح شديدة.
+It takes 2 hours by car.	يستغرق 2 ساعة بالسيارة.
+I've never done that.	لقد فعلت ذلك أبدا.
+I've worked there for five years.	لقد عملت هناك لمدة خمس سنوات.
+I want to buy something.	أريد شراء شيء.
+I want to contact our embassy.	أريد أن الاتصال سفارتنا.
+I want to send this package to the United States.	أريد أن ترسل هذه الحزمة إلى الولايات المتحدة.
+I want to show you something.	اريد ان اريك شيئا.
+"I went to the supermarket, and then to the computer store."	ذهبت إلى السوبر ماركت، ثم إلى مخزن الكمبيوتر.
+My car isn't working.	سيارتي لا يعمل.
+Nobody is helping us.	لا أحد يساعدنا.
+Nobody is there right now.	لا أحد هناك في الوقت الحالي.
+One like that.	واحد من هذا القبيل.
+Open the door.	افتح الباب.
+Open the window.	افتح النافذة.
+Pick up your clothes.	التقاط ملابسك.
+Please.	رجاء.
+Please count this for me.	الرجاء عد هذا بالنسبة لي.
+Please tell her John called.	من فضلك قل لها جون يسمى.
+Please tell me.	أرجوك قل لي.
+Please wait for me.	انتظرني رجاء.
+She's going with me tomorrow.	انها ستكون معي غدا.
+Some books.	بعض الكتب.
+Someone does that for me.	شخص يفعل ذلك بالنسبة لي.
+Someone is coming.	شخص ما قادم.
+"Sorry, I don't have a pencil."	آسف، أنا لم يكن لديك قلم رصاص.
+Start the car.	بدء تشغيل السيارة.
+Take me downtown.	خذني وسط المدينة.
+Tell him that I need to talk to him.	أقول له أنني بحاجة إلى التحدث معه.
+That car over there is mine.	تلك السيارة على وجود الألغام.
+That looks old.	التي تبدو قديمة.
+That's a good school.	هذا هو مدرسة جيدة.
+That's her book.	هذا هو كتابها.
+That's not enough.	هذا لا يكفي.
+The car is fixed.	يتم إصلاح السيارة.
+These books are ours.	وهذه الكتب هي لنا.
+The TV is broken.	يتم تقسيم TV.
+They haven't met her yet.	لم استقبالهم لها حتى الان.
+They're planning to come next year.	انهم يخططون ليأتي العام المقبل.
+They're waiting for us.	انهم ينتظرون منا.
+This room is a mess.	هذه الغرفة في حالة من الفوضى.
+Those men are speaking English.	وهؤلاء الرجال يتحدثون الإنجليزية.
+What color is that car?	ما هو لون هذه السيارة؟
+What do you think of these shoes?	ما رأيك في هذه الأحذية؟
+When would you like to meet?	متى تود أن نتقابل؟
+Where does your wife work?	حيث يعمل زوجتك؟
+Where is Main Street?	أين هو الشارع الرئيسي؟
+Where is my shirt?	أين قميصي؟
+Where is the bus station?	أين هو محطة الحافلات؟
+Which road should I take?	الطريق الذي ينبغي لي أن أعتبر؟
+You're right.	أنت على حق.
+Your house is very nice.	منزلك هو لطيف جدا.
+And you?	وأنت أيضا؟
+Anything else?	هل من شيء آخر؟
+Are they the same?	هل هي نفسها؟
+Are you afraid?	هل انت خائف؟
+Are you going to attend their wedding?	هل انت ذاهب لحضور حفلة زواجهم؟
+Are you married?	هل انت متزوج؟
+Are you okay?	انت بخير؟
+Are you sick?	هل انت مريض؟
+Behind the bank.	خلف البنك.
+Can I borrow some money?	هل بإمكاني أن أقترض بعض المال؟
+Can I have the bill please?	هل يمكنني أن احصل على الفاتورة من فضلك؟
+Can you call back later?	هل يمكنك أن تعاود الإتصال لاحقا؟
+Can you call me back later?	يمكنك الاتصال بي مرة أخرى في وقت لاحق؟
+Can you carry this for me?	يمكنك ان تحمل هذا بالنسبة لي؟
+Can you fix this?	أيمكنك إصلاح هذا؟
+Can you give me an example?	هل تستطيع أن تعطيني مثالا؟
+Can you speak louder please?	يمكنك التحدث بصوت أعلى من فضلك؟
+Can you swim?	هل يمكنك السباحة؟
+Does he like the school?	فهل تحب المدرسة؟
+Do you accept U.S. Dollars?	هل تقبل الدولار الأمريكي؟
+Do you have a girlfriend?	هل لديك صديقة؟
+Do you have an appointment?	هل لديك موعد؟
+Do you have a problem?	هل لديك مشكلة؟
+Do you hear that?	هل تسمع هذا؟
+Do you know how to get to the Marriott Hotel?	هل تعرف كيفية الوصول الى فندق ماريوت؟
+Do you know what this means?	هل تعرف ماذا يعني ذلك؟
+Do you know where I can get a taxi?	هل تعرف أين يمكنني الحصول على سيارة أجرة؟
+Do you know where my glasses are?	هل تعرف أين هي نظارتي؟
+Do you like your co-workers?	هل تحب زملائك في العمل؟
+Do you need anything else?	هل تحتاج شئ اخر؟
+Do you understand?	هل تفهم؟
+Give me the pen.	أعطني القلم.
+How do you know?	كيف علمت بذلك؟
+How is she?	كيف حالها؟
+How long is it?	كم طوله؟
+How many?	كم العدد؟
+How much is it?	كم سعره؟
+I have a lot of things to do.	لدي الكثير من الأشياء للقيام به.
+In 30 minutes.	فى 30 دقيقة.
+Is anyone else coming?	وأي شخص آخر قادم؟
+Is everything ok?	هل كل شيء على ما يرام؟
+Is it cold outside?	هو خارج الباردة؟
+Is it far from here?	هل هو بعيد من هنا؟
+Is it hot?	اهو ساخن؟
+Is it raining?	هل تمطر؟
+Is there anything cheaper?	هل هناك أي شيء أرخص؟
+Is your son here?	هو ابنك هنا؟
+Should I wait?	هل يجب ان انتظر؟
+The big one or the small one?	واحدة كبيرة أو صغيرة واحدة؟
+The cars are American.	السيارات هي الأميركية.
+Were there any problems?	كان هناك أي مشاكل؟
+Were you at the library last night?	هل كنت في المكتبة الليلة الماضية؟
+What are you doing?	ماذا تفعل؟
+What are you thinking about?	بم تفكر؟
+What are you two talking about?	ما هي لكم اثنين من الحديث عنه؟
+What did you do last night?	ماذا فعلت الليلة الماضية؟
+What did you do yesterday?	ماذا فعلت البارحة؟
+What did you think?	ماهو رأيك؟
+What do they study?	وماذا أدرس؟
+What do you have?	ماذا لديك؟
+What do you think?	ماذا تعتقد؟
+What happened?	ماذا حدث؟
+What is it?	ما هذا؟
+What is that?	ما هذا؟
+What should I wear?	ما الذي يجب ان ارتديه؟
+What's in it?	ماذا يوجد بداخلها؟
+What's the temperature?	كم تبلغ درجة الحراره؟
+What's this?	ما هذا؟
+What's up?	ماذا تفعل؟
+Where are you from?	من اين انت؟
+Where can I rent a car?	أين يمكنني استئجار سيارة؟
+Where did it happen?	أين حدث هذا؟
+Where did you learn it?	أين أنت تعلم ذلك؟
+Where is he?	أين هو؟
+Where is he from?	من أين هو؟
+"Which is better, the spaghetti or chicken salad?"	أيهما أفضل، والسباغيتي أو الدجاج سلطة؟
+Which one do you want?	أي واحدة تريد؟
+Which one is cheaper?	ايهما ارخص؟
+Which one is the best?	أي واحد هو الأفضل؟
+Which school does he go to?	المدرسة التي لم يذهب إليها؟
+Who are they?	من هؤلاء؟
+Who are you looking for?	على من تبحث؟
+Who is it? (Inquiring about who is on the phone)	من هذا؟ (الاستفسار عن من هو على الهاتف)
+Who's calling?	من يتصل؟
+Who's that man over there?	من هو هذا الرجل هناك؟
+Who taught you that?	الذي علمتك أن؟
+Why did you say that?	لما قلت ذلك؟
+Will you pass me the salt please?	سوف يمرر لي الملح من فضلك؟
+Will you put this in the car for me?	وكنت وضعت هذا في السيارة بالنسبة لي؟
+Would you ask him to call me back please?	هل يطلب منه الاتصال بي مرة أخرى من فضلك؟
+Yes.	نعم.
+You have a very nice car.	لديك سيارة جميلة جدا.
+You look like my sister.	أنت تبدو وكأنها أختي.
+Certainly!	من المؤكد!
+Good afternoon.	طاب مسائك.
+Good evening sir.	مساء الخير سيدي.
+Good Luck.	حظا سعيدا.
+Good morning.	صباح الخير.
+Great.	عظيم.
+Happy Birthday.	عيد ميلاد سعيد.
+Have a good trip.	احظى برحلة جيدة.
+Hello.	مرحبا.
+Nice to meet you	تشرفت بمقابلتك
+Please call me.	اتصل بي من فضلك.
+Are you here alone?	هل أنت هنا لوحدك؟
+Can I bring my friend?	يمكن أن أحمل صديقي؟
+Can I have a receipt please?	هل يمكنني الحصول على إيصال من فضلك؟
+Can it be cheaper?	يمكن أن يكون أرخص؟
+Can we have a menu please.	يمكن لدينا قائمة من فضلك.
+Can you hold this for me?	يمكنك الاستمرار على هذا بالنسبة لي؟
+Do you have any children?	هل لديك أطفال؟
+Do you know how much it costs?	هل تعرف كم يكلف؟
+Have you eaten at that restaurant?	هل أكلت في هذا المطعم؟
+Have you eaten yet?	هل تؤكل بعد؟
+Have you ever had Potato soup?	هل كان لديك أي وقت مضى حساء البطاطا؟
+He likes juice but he doesn't like milk	يحب عصير لكنه لا يحب الحليب
+Here is your salad.	هنا هو سلطتك.
+Here's your order.	هنا طلبك.
+How does it taste?	كيف طعمها؟
+How many people? (restaurant)	كم عدد الاشخاص؟ (مطعم)
+I agree.	أنا موافق.
+I'd like a table near the window.	أود طاولة قرب النافذة.
+I'd like to call the United States.	أود أن ندعو الولايات المتحدة.
+I haven't been there.	لم أكن هناك.
+I haven't finished eating.	أنا لم تنته تناول الطعام.
+I like it.	احب ذلك.
+I'll give you a call.	سوف أعطيك مكالمة.
+I'll have a cup of tea please.	سآخذ كوب من الشاي من فضلك.
+I'll have a glass of water please.	سآخذ كوب من الماء من فضلك.
+I'm from America.	انا من امريكا.
+I'm going to bed.	انا ذاهب الى السرير.
+I'm here on business.	انا هنا للعمل.
+I'm sorry.	أنا آسف.
+I only have 5 dollars.	ليس لدي سوى 5 دولارات.
+I think I need to see a doctor.	أعتقد أنني بحاجة لرؤية الطبيب.
+It's August 25th.	انها 25 أغسطس.
+I understand.	أفهم.
+June 3rd.	3 يونيو.
+The food was delicious.	الأكل كان لذيذا.
+There are some apples in the refrigerator.	هناك بعض التفاح في الثلاجة.
+There's a restaurant near here.	وهناك مطعم قريب من هنا.
+"There's a restaurant over there, but I don't think it's very good."	وهناك مطعم هناك، لكنني لا أعتقد انها جيدة جدا.
+Waiter!	نادل!
+Waitress!	نادلة!
+We can eat Italian or Chinese food.	يمكننا أن نأكل الطعام الإيطالي أو الصيني.
+We'll have two glasses of water please.	سيتعين علينا كأسين من الماء من فضلك.
+What are you going to have?	ماذا ستكون لدينا؟
+What do you recommend?	بماذا توصي؟
+What's your email address?	ما هو عنوان بريدك الالكترونى؟
+What would you like to drink?	ماذا تحب أن تشرب؟
+What would you like to eat?	ماذا تريد أن تأكل؟
+Where is an ATM?	أين هو جهاز الصراف الآلي؟
+Where is there a doctor who speaks English?	حيث هناك الطبيب الذي يتحدث الانجليزية؟
+Which one?	أي واحدة؟
+Would you ask him to come here?	هل يطلب منه المجيء الى هنا؟
+Would you like a glass of water?	هل تريد كأس من الماء؟
+Would you like coffee or tea?	هل تود القهوة ام الشاي؟
+Would you like something to drink?	هل تحب ان تشرب شيئا؟
+Would you like some water?	هل تريد بعض الماء؟
+Would you like some wine?	هل تريد بعض النبيذ؟
+Would you like to go for a walk?	أتريد أن تذهب في نزهة على الأقدام؟
+Would you like to watch TV?	هل ترغب في مشاهدة التلفزيون؟
+11 days ago.	قبل 11 يوما.
+2 hours.	ساعاتين.
+All day.	طوال اليوم.
+A long time ago.	منذ وقت طويل.
+Are they coming this evening?	يأتون هذا المساء؟
+Are you comfortable?	هل أنت مرتاح؟
+Are your children with you?	هل أطفالك معك؟
+As soon as possible.	في أقرب وقت ممكن.
+At 3 o'clock in the afternoon.	في 3:00 بعد الظهر.
+At 5th street.	في الشارع 5TH.
+At 7 o'clock at night. (evening)?	في 07:00 ليلا. (مساء)؟
+At 7 o'clock in the morning.	في 7:00 في الصباح.
+At what time did it happen?	في وقت ما أنه لم يحدث؟
+Can I help you?	أيمكنني مساعدتك؟
+Do you have a swimming pool?	هل لديك حمام السباحة؟
+Do you have this in size 11?	هل لديك هذا في حجم 11؟
+Do you think you'll be back by 11:30?	هل تعتقد أن عليك أن تكون العودة قبل 11:30؟
+Everyday I get up at 6AM.	كل يوم أستيقظ في 06:00.
+Every week.	كل اسبوع.
+Expiration date.	تاريخ إنتهاء الصلاحية.
+Have you been waiting long?	هل تم الانتظار لفترة طويلة؟
+He'll be back in 20 minutes.	وسوف تكون العودة في 20 دقيقة.
+His family is coming tomorrow.	عائلته قادم غدا.
+How about Saturday?	ماذا عن يوم السبت؟
+How long are you going to stay?	كم المدة التي تنوي بقاءها؟
+How long are you going to stay in California?	متى انت ذاهب الى البقاء في ولاية كاليفورنيا؟
+How long will it take?	كم من الوقت سوف يستغرق؟
+How much altogether?	كم تماما؟
+How much will it cost?	كم ستكون التكلفة؟
+I don't have enough money.	ليس لدي ما يكفي من المال.
+I'm getting ready to go out.	اريد ان اكون مستعدا للخروج.
+I'm just looking. (Shopping)	أنا فقط أبحث. (التسوق)
+I'm worried too.	أنا قلق جدا.
+It'll be cold this evening.	انها سوف تكون باردة هذا المساء.
+It rained very hard today.	هطلت الأمطار من الصعب جدا اليوم.
+It's 17 dollars.	انها 17 دولارا.
+It's 6AM.	انها 6:00.
+It's 8:45.	انها 8:45.
+It's a quarter to 7.	انها ربع إلى 7.
+It's going to snow today.	انها سوف الثلوج اليوم.
+It's here.	إنه هنا.
+It's there.	إنه هناك.
+I've already seen it.	رأيت بالفعل.
+John is going on vacation tomorrow.	جون هو ذاهب لقضاء اجازة غدا.
+My birthday is August 27th.	عيد ميلادي هو 27 أغسطس.
+Now or later?	الآن أو في وقت لاحق؟
+October 22nd.	22 أكتوبر.
+She wants to know when you're coming.	إنها تريد أن تعرف متى كنت المقبلة.
+"Sometimes I go to sleep at 11PM, sometimes at 11:30PM."	أحيانا أذهب إلى النوم في 11:00، وأحيانا الساعة 11:30 AM.
+There's plenty of time.	هناك متسع من الوقت.
+The whole day.	اليوم بأكمله.
+We're late.	نحن متاخرون.
+What day are they coming over?	يوم ما يأتون من جديد؟
+What day of the week is it?	أي يوم في الإسبوع هذا؟
+What is today's date?	ماهو تاريخ اليوم؟
+What's your religion?	ما دينك؟
+What time are they arriving?	وقت ما هم يصلون؟
+What time did you get up?	في أي وقت استيقظت؟
+What time did you go to sleep?	وقت ما لم تذهب إلى النوم؟
+What time did you wake up?	فى اى وقت استيقظت؟
+What time does it start?	ما الوقت الذي تبدأ فيه؟
+What time do you think you'll arrive?	ما الوقت هل تعتقد انك سوف تصل؟
+What time is it?	أي ساعة؟
+When are they coming?	متى سيأتون؟
+When are you coming back?	متى ستعود؟
+When are you going to pick up your friend?	عندما أنت ذاهب إلى التقاط صديقك؟
+When are you leaving?	متى ستغادر؟
+When are you moving?	عندما أنت تتحرك؟
+When is the next bus to Philidalphia?	عندما يكون الحافلة القادمة إلى Philidalphia؟
+When is your birthday?	متى يحين عيد ميلادك؟
+"When I went to the store, they didn't have any apples."	عندما ذهبت الى المتجر، لم يكن لديهم أي التفاح.
+When was the last time you talked to your mother?	متى كانت آخر مرة تحدثت إلى والدتك؟
+When will he be back?	متى هو سوف يرجع؟
+When will it be ready?	متى سيكون جاهز؟
+Where are you going to go?	الى أين ستذهب؟
+6 dollars per hour.	6 دولارات في الساعة.
+Are you waiting for someone?	هل تنتظر أحدا؟
+Are you working today?	هل تعمل اليوم؟
+Bring me my shirt please.	أحضر لي قميصي من فضلك.
+Do you like to watch TV?	هل تحب أن تشاهد التلفاز؟
+Do you like your boss?	هل تحب رئيسك في العمل؟
+Have you finished studying?	هل أنهيت دراستي؟
+He's an Engineer.	هو مهندس.
+He's very hard working.	انه عمل صعب جدا.
+He works at a computer company in New York.	وهو يعمل في شركة كمبيوتر في نيويورك.
+How long have you worked here?	منذ متى وأنت تعمل هنا؟
+How many hours a week do you work?	كم ساعة في الأسبوع تعمل؟
+How much money do you have?	كم من المال لديك؟
+How's the weather?	كيف هو الطقس؟
+How was the trip?	كيف كانت الرحلة؟
+I forget.	لقد نسيت.
+I'm good.	أنا بخير.
+I'm ready.	أنا مستعد.
+I still have a lot of things to buy.	لا يزال لدي الكثير من الأشياء لشراء.
+I've seen it.	لقد رأيت ذلك.
+What does he do for work?	ماذا يفعل للعمل؟
+What does your father do for work?	ماذا يفعل والدك للعمل؟
+What do you do for work?	ماذا تفعل للعمل؟
+What do your parents do for work?	ما يفعله والداك للعمل؟
+What's the matter?	ما هو الأمر؟
+What time do you go to work everyday?	وقت ما تذهب إلى العمل كل يوم؟
+When do you arrive in the U.S.?	متى يصل في الولايات المتحدة؟
+When do you get off work?	عندما تحصل على التوقف عن العمل؟
+Where did you put it?	اين وضعتها؟
+Where does it hurt?	أين موضع الألم؟
+Where do you want to go?	أين تريد أن تذهب؟
+Am I pronouncing it correctly?	هل أنطقها بشكل صحيح؟
+Can you do me a favor?	هل يمكنك أن تسدي لي خدمة؟
+Can you help me?	هل تستطيع مساعدتي؟
+Can you please say that again?	هل يمكنكم أن أقول مرة أخرى؟
+Can you show me?	هل تستطيع أن تريني؟
+Can you throw that away for me?	يمكنك رمي بعيدا بالنسبة لي؟
+Does anyone here speak English?	هل من أحد هنا يتحدث الإنجليزية؟
+Don't do that.	لا تفعل ذلك.
+Do you believe that?	هل تصدق ذلك؟
+Do you have a pencil?	هل لديك قلم رصاص؟
+Do you smoke?	هل تدخن؟
+Do you speak English?	هل تتكلم اللغة الإنجليزية؟
+"Excuse me, what did you say?"	عفوا، ماذا قلت؟
+Forget it.	انسى ذلك.
+How do you pronounce that?	كيف تنطق هذا؟
+How do you say it in English?	كيف تقولها باللغة الإنجليزية؟
+How do you spell it?	كيف تنطقها؟
+"How do you spell the word ""Seattle?"""	"كيف تتهجى كلمة ""سياتل؟"""
+I can swim.	استطيع ان اسبح.
+I can't hear you clearly.	لا أستطيع أن أسمعك بوضوح.
+I don't mind.	لا مانع.
+I don't speak English very well.	أنا لا أتكلم الإنجليزية جيدا.
+I don't think so.	لا أعتقد ذلك.
+I don't understand what your saying.	أنا لا أفهم ما قولك.
+Is there air conditioning in the room?	هناك تكييف الهواء في الغرفة؟
+I think you have too many clothes.	اعتقد ان لديك الكثير من الملابس.
+I trust you.	أنا أثق بك.
+I understand now.	أنا أفهم الآن.
+Let's meet in front of the hotel.	لقاء دعونا أمام الفندق.
+Please sit down.	من فضلك اجلس.
+Please speak English.	أرجوك تكلم بالإنجليزية.
+Please speak more slowly.	من فضلك تكلم ببطء أكثر.
+"Sorry, I didn't hear clearly."	عذرا، لم أسمع بوضوح.
+That means friend.	وهذا يعني صديق.
+That's wrong.	ذلك خطأ.
+Try to say it.	حاول أن يقول ذلك.
+What does this mean?	ماذا يعني هذا؟
+What does this say?	ماذا يعني هذا القول؟
+What does this word mean?	ماذا تعني هذه الكلمة؟
+What's the exchange rate?	ما هو سعر الصرف؟
+Whose book is that?	لمن هذا الكتاب؟
+Why aren't you going?	لماذا لا تذهب؟
+Why are you laughing?	لماذا تضحك؟
+Why did you do that?	لماذا فعلت ذلك؟
+Can I have a glass of water please?	هل يمكنني الحصول على كوب من الماء من فضلك؟
+Can I use your phone?	هل يمكنني استخدام هاتفك؟
+Do you have any vacancies?	هل لديك أي شواغر؟
+Do you have the number for a taxi?	هل لديك رقم لسيارة أجرة؟
+Do you know her?	هل تعرفها؟
+Do you know where she is?	هل تعلم اين هي؟
+Do you play basketball?	هل تلعب كرة السلة؟
+"Fill it up, please. (gas station)"	املأها من فضلك. (محطة غاز)
+He needs some new clothes.	وهو يحتاج لبعض الملابس الجديدة.
+How much is that?	كم ثمن ذلك؟
+How much is this?	كم ثمن هذا؟
+I believe you.	اصدقك.
+I'd like the number for the Hilton Hotel please.	أود عدد لفندق هيلتون فضلك.
+I'd like to buy a phone card please.	أود أن شراء بطاقة الهاتف من فضلك.
+I'd like to go home.	أود العودة إلى ديارهم.
+I'd like to go shopping.	أود أن تذهب للتسوق.
+If you like it I can buy more.	إذا كنت ترغب في ذلك يمكنني شراء المزيد.
+I'm a beginner.	انا مبتدئ.
+I'm full.	انا ممتلئ.
+I'm just kidding.	أنا أمزح.
+I'm single.	أنا أعزب.
+I speak two languages.	اتكلم لغتين.
+I thought he said something else.	اعتقدت قال شيئا آخر.
+It's not too far.	انه ليس بعيدا.
+I usually drink coffee at breakfast.	أنا عادة شرب القهوة في وجبة الإفطار.
+"Sorry, we don't have any."	عذرا، ليس لدينا أي.
+The books are expensive.	الكتب غالية الثمن.
+Try it on.	في محاولة على.
+What do you want to buy?	ماذا تريد ان تشتري؟
+What size?	ما حجم؟
+What time does the store open?	وقت ما يفعل العراء المتجر؟
+When does the plane arrive?	متى تصل الطائرة؟
+Where are you?	أين أنت؟
+Would you like something to eat?	هل تريد شيئا لتأكله؟
