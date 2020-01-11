@@ -1,16 +1,7 @@
 {
   "description": "A list of English adjectives.",
   "words":
-    [ "Aristotelian",
-      "Arthurian",
-      "Bohemian",
-      "Brethren",
-      "Mosaic",
-      "Oceanic",
-      "Proctor",
-      "Terran",
-      "Tudor",
-      "abroad",
+    ["abroad",
       "absorbing",
       "abstract",
       "academic",
